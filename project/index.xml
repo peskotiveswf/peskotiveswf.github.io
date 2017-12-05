@@ -1,23 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wei Fang on Wei Fang</title>
-    <link>https://peskotiveswf.github.io/</link>
-    <description>Recent content in Wei Fang on Wei Fang</description>
+    <title>Projects on Wei Fang</title>
+    <link>https://peskotiveswf.github.io/project/</link>
+    <description>Recent content in Projects on Wei Fang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Your Name</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Multi-Label Zero-Shot Learning with Structured Knowledge Graphs</title>
-      <link>https://peskotiveswf.github.io/publication/vll_mlzsl/</link>
-      <pubDate>Fri, 17 Nov 2017 00:00:00 +0800</pubDate>
-      
-      <guid>https://peskotiveswf.github.io/publication/vll_mlzsl/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Sat, 30 Sep 2017 00:00:00 +0800</lastBuildDate>
+    <atom:link href="/project/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Acoustic Word Embeddings</title>
@@ -34,15 +25,6 @@
       <pubDate>Wed, 21 Jun 2017 00:00:00 +0800</pubDate>
       
       <guid>https://peskotiveswf.github.io/project/icb17_chatbot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hierarchical Attention Model for Improved Machine Comprehension of Spoken Content</title>
-      <link>https://peskotiveswf.github.io/publication/slt16_teoflqa/</link>
-      <pubDate>Tue, 13 Dec 2016 00:00:00 +0800</pubDate>
-      
-      <guid>https://peskotiveswf.github.io/publication/slt16_teoflqa/</guid>
       <description></description>
     </item>
     
