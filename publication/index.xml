@@ -6,14 +6,16 @@
     <description>Recent content in Publications on Wei Fang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Your Name</copyright>
+    <copyright>&amp;copy; 2018 Wei Fang</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://peskotiveswf.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Multi-Label Zero-Shot Learning with Structured Knowledge Graphs</title>
       <link>https://peskotiveswf.github.io/publication/vll_mlzsl/</link>
-      <pubDate>Fri, 17 Nov 2017 00:00:00 +0800</pubDate>
+      <pubDate>Sat, 17 Mar 2018 00:00:00 +0800</pubDate>
       
       <guid>https://peskotiveswf.github.io/publication/vll_mlzsl/</guid>
       <description></description>

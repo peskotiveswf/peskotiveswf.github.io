@@ -6,9 +6,116 @@
     <description>Recent content in Homes on Wei Fang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Your Name</copyright>
+    <copyright>&amp;copy; 2018 Wei Fang</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://peskotiveswf.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://peskotiveswf.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://peskotiveswf.github.io/home/about/</guid>
+      <description>Biography I am a prospective Ph.D. student, recently graduated from National Taiwan University (NTU) with a Bachelor&amp;rsquo;s degree in Electrical Engineering. I researched on question answering for listening comprehension and acoustic word embeddings under Prof. Hung-Yi Lee and Prof. Lin-Shan Lee at NTU. I also worked on machine learning problems for computer vision such as multi-label learning and transfer learning under Prof. Yu-Chiang Frank Wang at Academia Sinica/NTU. I will be joining MIT for my Ph.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://peskotiveswf.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://peskotiveswf.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://peskotiveswf.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://peskotiveswf.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Honors &amp; Awards</title>
+      <link>https://peskotiveswf.github.io/home/honors/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://peskotiveswf.github.io/home/honors/</guid>
+      <description>Dean&amp;rsquo;s List (3 times) National Taiwan University GPA in Top 5% in Department of Electrical Engineering.
+Conference Grant Foundation for the Advancement of Outstanding Scholarship For SLT 2016.
+Winner (Smart Life Track) 2016 HackNTU Hackathon Total of 160 teams.
+2nd Place 2016 Undergraduate Innovation Award, NTU Electrical Engineering Total of 15 research projects in competition.
+3rd Place (Problem B) Cad Contest 2015 at IEEE/ACM International Conference on Computer Aided Design (ICCAD) Total of 112 teams from 12 countries for the 3 problems.</description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://peskotiveswf.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://peskotiveswf.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://peskotiveswf.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://peskotiveswf.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://peskotiveswf.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://peskotiveswf.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://peskotiveswf.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://peskotiveswf.github.io/home/teaching/</guid>
+      <description>Teaching Assistant Machine Learning, Fall 2016/Spring 2017, NTU EE
+Teaching Assistant Special Topics in Data Analytics and Modeling, Fall 2016, NTU CSIE
+Teaching Assistant Signals and Systems, Spring 2016, NTU EE</description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://peskotiveswf.github.io/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://peskotiveswf.github.io/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Activities</title>
+      <link>https://peskotiveswf.github.io/home/activities/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://peskotiveswf.github.io/home/activities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://peskotiveswf.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://peskotiveswf.github.io/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
