@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Wei Fang</copyright>
-    <lastBuildDate>Sat, 30 Sep 2017 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 01 May 2018 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://peskotiveswf.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Multi-Label Zero-Shot Recognition with Knowledge Graphs</title>
+      <link>https://peskotiveswf.github.io/project/vll18_mlzsl/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://peskotiveswf.github.io/project/vll18_mlzsl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch-based Image Retrieval across Style Domains</title>
+      <link>https://peskotiveswf.github.io/project/mmai17_retrieval/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://peskotiveswf.github.io/project/mmai17_retrieval/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Acoustic Word Embeddings</title>
@@ -27,6 +45,15 @@
       <pubDate>Wed, 21 Jun 2017 00:00:00 +0800</pubDate>
       
       <guid>https://peskotiveswf.github.io/project/icb17_chatbot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Question Answering for Listening Comprehension</title>
+      <link>https://peskotiveswf.github.io/project/spml16_toeflqa/</link>
+      <pubDate>Tue, 13 Dec 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://peskotiveswf.github.io/project/spml16_toeflqa/</guid>
       <description></description>
     </item>
     
