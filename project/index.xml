@@ -14,82 +14,84 @@
     
     <item>
       <title>Multi-Label Zero-Shot Recognition with Knowledge Graphs</title>
-      <link>https://peskotiveswf.github.io/project/vll18_mlzsl/</link>
+      <link>https://peskotiveswf.github.io/project/vll18-mlzsl/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0800</pubDate>
       
-      <guid>https://peskotiveswf.github.io/project/vll18_mlzsl/</guid>
-      <description></description>
+      <guid>https://peskotiveswf.github.io/project/vll18-mlzsl/</guid>
+      <description>Inspired by the way humans utilize semantic knowledge between objects of interests, we propose a novel deep learning framework that incorporates knowledge graphs for describing the relationships between multiple labels to achieve multi-label zero-shot learning (ML-ZSL).</description>
     </item>
     
     <item>
-      <title>Sketch-based Image Retrieval across Style Domains</title>
-      <link>https://peskotiveswf.github.io/project/mmai17_retrieval/</link>
+      <title>Sketch-based Image Retrieval across Art Styles</title>
+      <link>https://peskotiveswf.github.io/project/mmai17-retrieval/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
       
-      <guid>https://peskotiveswf.github.io/project/mmai17_retrieval/</guid>
-      <description></description>
+      <guid>https://peskotiveswf.github.io/project/mmai17-retrieval/</guid>
+      <description>In this project, we try to perform cross-domain image retrieval across different art styles using sketches as queries. Given a sketch image and a target art domain, we aim to retrieve images that are semantically similar in that particular art domain.
+We surveyed a few papers and a dataset by Adobe and Cornell Tech in the proceedings of this year’s ICCV conference (ICCV 2017). The Behance Artistic Media (BAM) dataset consists of images of 9 kinds of objects for 7 different art styles such as oil paint or vector art.</description>
     </item>
     
     <item>
-      <title>Acoustic Word Embeddings</title>
-      <link>https://peskotiveswf.github.io/project/spml17_audio2vec/</link>
+      <title>Audio Word Embeddings</title>
+      <link>https://peskotiveswf.github.io/project/spml17-audio2vec/</link>
       <pubDate>Sat, 30 Sep 2017 00:00:00 +0800</pubDate>
       
-      <guid>https://peskotiveswf.github.io/project/spml17_audio2vec/</guid>
+      <guid>https://peskotiveswf.github.io/project/spml17-audio2vec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modular Chatbot</title>
-      <link>https://peskotiveswf.github.io/project/icb17_chatbot/</link>
+      <link>https://peskotiveswf.github.io/project/icb17-chatbot/</link>
       <pubDate>Wed, 21 Jun 2017 00:00:00 +0800</pubDate>
       
-      <guid>https://peskotiveswf.github.io/project/icb17_chatbot/</guid>
-      <description></description>
+      <guid>https://peskotiveswf.github.io/project/icb17-chatbot/</guid>
+      <description>In this project, we built a modular dialogue system with deep learning techniques for the task of assisting people in department stores.
+Here is our poster.</description>
     </item>
     
     <item>
       <title>Question Answering for Listening Comprehension</title>
-      <link>https://peskotiveswf.github.io/project/spml16_toeflqa/</link>
+      <link>https://peskotiveswf.github.io/project/spml16-toeflqa/</link>
       <pubDate>Tue, 13 Dec 2016 00:00:00 +0800</pubDate>
       
-      <guid>https://peskotiveswf.github.io/project/spml16_toeflqa/</guid>
-      <description></description>
+      <guid>https://peskotiveswf.github.io/project/spml16-toeflqa/</guid>
+      <description>Here is a short talk I gave on our group&amp;rsquo;s recent work on speech question answering.</description>
     </item>
     
     <item>
       <title>MasterView (VR System)</title>
-      <link>https://peskotiveswf.github.io/project/hackntu16_masterview/</link>
+      <link>https://peskotiveswf.github.io/project/hackntu16-masterview/</link>
       <pubDate>Sun, 21 Aug 2016 00:00:00 +0800</pubDate>
       
-      <guid>https://peskotiveswf.github.io/project/hackntu16_masterview/</guid>
+      <guid>https://peskotiveswf.github.io/project/hackntu16-masterview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visual Question Answering</title>
-      <link>https://peskotiveswf.github.io/project/uia16_vqa/</link>
+      <link>https://peskotiveswf.github.io/project/uia16-vqa/</link>
       <pubDate>Tue, 10 May 2016 00:00:00 +0800</pubDate>
       
-      <guid>https://peskotiveswf.github.io/project/uia16_vqa/</guid>
-      <description></description>
+      <guid>https://peskotiveswf.github.io/project/uia16-vqa/</guid>
+      <description>Here is our report and here are our slides.</description>
     </item>
     
     <item>
       <title>Large Scale Equivalence Checking and Functional Correction</title>
-      <link>https://peskotiveswf.github.io/project/cad15_eqcheck/</link>
+      <link>https://peskotiveswf.github.io/project/cad15-eqcheck/</link>
       <pubDate>Sat, 19 Sep 2015 00:00:00 +0800</pubDate>
       
-      <guid>https://peskotiveswf.github.io/project/cad15_eqcheck/</guid>
+      <guid>https://peskotiveswf.github.io/project/cad15-eqcheck/</guid>
       <description></description>
     </item>
     
     <item>
       <title>uHu - a Resale Service</title>
-      <link>https://peskotiveswf.github.io/project/hackntu15_uhu/</link>
+      <link>https://peskotiveswf.github.io/project/hackntu15-uhu/</link>
       <pubDate>Fri, 21 Aug 2015 00:00:00 +0800</pubDate>
       
-      <guid>https://peskotiveswf.github.io/project/hackntu15_uhu/</guid>
+      <guid>https://peskotiveswf.github.io/project/hackntu15-uhu/</guid>
       <description></description>
     </item>
     
