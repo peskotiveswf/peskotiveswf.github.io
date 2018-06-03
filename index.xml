@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Multi-Label Zero-Shot Learning with Structured Knowledge Graphs</title>
+      <link>https://peskotiveswf.github.io/publication/cvpr18-mlzsl/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://peskotiveswf.github.io/publication/cvpr18-mlzsl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Multi-Label Zero-Shot Recognition with Knowledge Graphs</title>
       <link>https://peskotiveswf.github.io/project/vll18-mlzsl/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0800</pubDate>
@@ -18,15 +27,6 @@
       <guid>https://peskotiveswf.github.io/project/vll18-mlzsl/</guid>
       <description>&lt;p&gt;Inspired by the way humans utilize semantic knowledge between objects of interests, we propose a novel deep learning framework that incorporates knowledge graphs for describing the relationships between multiple labels to achieve multi-label zero-shot learning (ML-ZSL).&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Multi-Label Zero-Shot Learning with Structured Knowledge Graphs</title>
-      <link>https://peskotiveswf.github.io/publication/cvpr18-mlzsl/</link>
-      <pubDate>Sat, 17 Mar 2018 00:00:00 +0800</pubDate>
-      
-      <guid>https://peskotiveswf.github.io/publication/cvpr18-mlzsl/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -123,7 +123,24 @@ answering.&lt;/p&gt;
       <pubDate>Sun, 21 Aug 2016 00:00:00 +0800</pubDate>
       
       <guid>https://peskotiveswf.github.io/project/hackntu16-masterview/</guid>
-      <description></description>
+      <description>&lt;p&gt;In the 2016 HackNTU Hackathon, our team developed MasterView, a virtual reality system that shows the expert&amp;rsquo;s moves in first-person perspective so the user can imitate and practice.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s a &lt;a href=&#34;../../files/videos/masterview-demo.mp4&#34; target=&#34;_blank&#34;&gt;demo video&lt;/a&gt; of our system, and here&amp;rsquo;s
+our &lt;a href=&#34;../../files/slides/masterview-slides.pdf&#34; target=&#34;_blank&#34;&gt;presentation slides&lt;/a&gt; in Mandarin Chinese.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slither.AR (AR Game)</title>
+      <link>https://peskotiveswf.github.io/project/cg16-slither/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://peskotiveswf.github.io/project/cg16-slither/</guid>
+      <description>&lt;p&gt;Using common and well-known development tools, we transform &lt;a href=&#34;http://slither.io&#34; target=&#34;_blank&#34;&gt;slither.io&lt;/a&gt;, a game
+based on &amp;ldquo;Snake&amp;rdquo;, into an interactive augmented-reality game.&lt;/p&gt;
+
+&lt;p&gt;The details about this project can be found in our &lt;a href=&#34;../../files/reports/icg-report.pdf&#34; target=&#34;_blank&#34;&gt;project report&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -138,12 +155,30 @@ and here are our &lt;a href=&#34;../../files/slides/vqa-slides.pdf&#34; target=&
     </item>
     
     <item>
+      <title>Aspect-Based Sentiment Analysis</title>
+      <link>https://peskotiveswf.github.io/project/spml15-absa/</link>
+      <pubDate>Fri, 29 Jan 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://peskotiveswf.github.io/project/spml15-absa/</guid>
+      <description>&lt;p&gt;Here is a &lt;a href=&#34;../../files/reports/semeval16-absa-report.pdf&#34; target=&#34;_blank&#34;&gt;report&lt;/a&gt;
+on our results for the &lt;a href=&#34;http://alt.qcri.org/semeval2016/task5/&#34; target=&#34;_blank&#34;&gt;aspect-based sentiment analysis task in SemEval
+2016&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Large Scale Equivalence Checking and Functional Correction</title>
       <link>https://peskotiveswf.github.io/project/cad15-eqcheck/</link>
       <pubDate>Sat, 19 Sep 2015 00:00:00 +0800</pubDate>
       
       <guid>https://peskotiveswf.github.io/project/cad15-eqcheck/</guid>
-      <description></description>
+      <description>&lt;p&gt;We participated in the &lt;a href=&#34;http://cad-contest.el.cycu.edu.tw/CAD-contest-at-ICCAD2015/&#34; target=&#34;_blank&#34;&gt;2015 CAD
+Contest&lt;/a&gt; hosted by
+IEEE/ACM International Conference on Computer Aided Design (ICCAD 2015). In
+&lt;a href=&#34;http://cad-contest.el.cycu.edu.tw/problem_B/default.htm&#34; target=&#34;_blank&#34;&gt;Problem B&lt;/a&gt;, we
+developed a system to identify equivalent cuts in both equivalent and
+nonequivalent circuits for design partitioning.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -152,7 +187,11 @@ and here are our &lt;a href=&#34;../../files/slides/vqa-slides.pdf&#34; target=&
       <pubDate>Fri, 21 Aug 2015 00:00:00 +0800</pubDate>
       
       <guid>https://peskotiveswf.github.io/project/hackntu15-uhu/</guid>
-      <description></description>
+      <description>&lt;p&gt;At the 2016 HackNTU Hackathon, our team built a second-hand trading platform,
+uhu, which provided services for booking, notifications, and filtering functions
+based on Facebook trading groups, in under 42 hours. Our presentation slides
+(in Mandarin Chinese) can be found &lt;a href=&#34;https://www.slideshare.net/secret/LhLiZV72LMNy0G/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

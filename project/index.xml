@@ -65,7 +65,18 @@ Here is our poster.</description>
       <pubDate>Sun, 21 Aug 2016 00:00:00 +0800</pubDate>
       
       <guid>https://peskotiveswf.github.io/project/hackntu16-masterview/</guid>
-      <description></description>
+      <description>In the 2016 HackNTU Hackathon, our team developed MasterView, a virtual reality system that shows the expert&amp;rsquo;s moves in first-person perspective so the user can imitate and practice.
+Here&amp;rsquo;s a demo video of our system, and here&amp;rsquo;s our presentation slides in Mandarin Chinese.</description>
+    </item>
+    
+    <item>
+      <title>Slither.AR (AR Game)</title>
+      <link>https://peskotiveswf.github.io/project/cg16-slither/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://peskotiveswf.github.io/project/cg16-slither/</guid>
+      <description>Using common and well-known development tools, we transform slither.io, a game based on &amp;ldquo;Snake&amp;rdquo;, into an interactive augmented-reality game.
+The details about this project can be found in our project report.</description>
     </item>
     
     <item>
@@ -78,12 +89,21 @@ Here is our poster.</description>
     </item>
     
     <item>
+      <title>Aspect-Based Sentiment Analysis</title>
+      <link>https://peskotiveswf.github.io/project/spml15-absa/</link>
+      <pubDate>Fri, 29 Jan 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://peskotiveswf.github.io/project/spml15-absa/</guid>
+      <description>Here is a report on our results for the aspect-based sentiment analysis task in SemEval 2016.</description>
+    </item>
+    
+    <item>
       <title>Large Scale Equivalence Checking and Functional Correction</title>
       <link>https://peskotiveswf.github.io/project/cad15-eqcheck/</link>
       <pubDate>Sat, 19 Sep 2015 00:00:00 +0800</pubDate>
       
       <guid>https://peskotiveswf.github.io/project/cad15-eqcheck/</guid>
-      <description></description>
+      <description>We participated in the 2015 CAD Contest hosted by IEEE/ACM International Conference on Computer Aided Design (ICCAD 2015). In Problem B, we developed a system to identify equivalent cuts in both equivalent and nonequivalent circuits for design partitioning.</description>
     </item>
     
     <item>
@@ -92,7 +112,7 @@ Here is our poster.</description>
       <pubDate>Fri, 21 Aug 2015 00:00:00 +0800</pubDate>
       
       <guid>https://peskotiveswf.github.io/project/hackntu15-uhu/</guid>
-      <description></description>
+      <description>At the 2016 HackNTU Hackathon, our team built a second-hand trading platform, uhu, which provided services for booking, notifications, and filtering functions based on Facebook trading groups, in under 42 hours. Our presentation slides (in Mandarin Chinese) can be found here.</description>
     </item>
     
   </channel>
