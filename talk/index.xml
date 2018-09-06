@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on Wei Fang</title>
-    <link>https://peskotiveswf.github.io/talk/</link>
+    <link>https://people.csail.mit.edu/weifang/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on Wei Fang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Wei Fang</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://peskotiveswf.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://people.csail.mit.edu/weifang/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

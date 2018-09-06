@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wei Fang on Wei Fang</title>
-    <link>https://peskotiveswf.github.io/</link>
+    <link>https://people.csail.mit.edu/weifang/</link>
     <description>Recent content in Wei Fang on Wei Fang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Wei Fang</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <atom:link href="/weifang/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Multi-Label Zero-Shot Learning with Structured Knowledge Graphs</title>
-      <link>https://peskotiveswf.github.io/publication/cvpr18-mlzsl/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0800</pubDate>
+      <link>https://people.csail.mit.edu/weifang/publication/cvpr18-mlzsl/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://peskotiveswf.github.io/publication/cvpr18-mlzsl/</guid>
+      <guid>https://people.csail.mit.edu/weifang/publication/cvpr18-mlzsl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-Label Zero-Shot Recognition with Knowledge Graphs</title>
-      <link>https://peskotiveswf.github.io/project/vll18-mlzsl/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0800</pubDate>
+      <link>https://people.csail.mit.edu/weifang/project/vll18-mlzsl/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://peskotiveswf.github.io/project/vll18-mlzsl/</guid>
+      <guid>https://people.csail.mit.edu/weifang/project/vll18-mlzsl/</guid>
       <description>&lt;p&gt;Inspired by the way humans utilize semantic knowledge between objects of interests, we propose a novel deep learning framework that incorporates knowledge graphs for describing the relationships between multiple labels to achieve multi-label zero-shot learning (ML-ZSL).&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Sketch-based Image Retrieval across Art Styles</title>
-      <link>https://peskotiveswf.github.io/project/mmai17-retrieval/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      <link>https://people.csail.mit.edu/weifang/project/mmai17-retrieval/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://peskotiveswf.github.io/project/mmai17-retrieval/</guid>
+      <guid>https://people.csail.mit.edu/weifang/project/mmai17-retrieval/</guid>
       <description>
 
 &lt;p&gt;In this project, we try to perform cross-domain image retrieval across different
@@ -68,28 +68,28 @@ convolutional neural networks, mainly based on &lt;a href=&#34;http://openaccess
     
     <item>
       <title>NTUEE Student Association</title>
-      <link>https://peskotiveswf.github.io/activities/ntueesa/</link>
+      <link>https://people.csail.mit.edu/weifang/activities/ntueesa/</link>
       <pubDate>Wed, 06 Dec 2017 16:01:07 +0800</pubDate>
       
-      <guid>https://peskotiveswf.github.io/activities/ntueesa/</guid>
+      <guid>https://people.csail.mit.edu/weifang/activities/ntueesa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Audio Word Embeddings</title>
-      <link>https://peskotiveswf.github.io/project/spml17-audio2vec/</link>
-      <pubDate>Sat, 30 Sep 2017 00:00:00 +0800</pubDate>
+      <link>https://people.csail.mit.edu/weifang/project/spml17-audio2vec/</link>
+      <pubDate>Sat, 30 Sep 2017 00:00:00 -0400</pubDate>
       
-      <guid>https://peskotiveswf.github.io/project/spml17-audio2vec/</guid>
+      <guid>https://people.csail.mit.edu/weifang/project/spml17-audio2vec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modular Chatbot</title>
-      <link>https://peskotiveswf.github.io/project/icb17-chatbot/</link>
-      <pubDate>Wed, 21 Jun 2017 00:00:00 +0800</pubDate>
+      <link>https://people.csail.mit.edu/weifang/project/icb17-chatbot/</link>
+      <pubDate>Wed, 21 Jun 2017 00:00:00 -0400</pubDate>
       
-      <guid>https://peskotiveswf.github.io/project/icb17-chatbot/</guid>
+      <guid>https://people.csail.mit.edu/weifang/project/icb17-chatbot/</guid>
       <description>&lt;p&gt;In this project, we built a modular dialogue system with deep learning techniques
 for the task of assisting people in department stores.&lt;/p&gt;
 
@@ -99,19 +99,19 @@ for the task of assisting people in department stores.&lt;/p&gt;
     
     <item>
       <title>Hierarchical Attention Model for Improved Machine Comprehension of Spoken Content</title>
-      <link>https://peskotiveswf.github.io/publication/slt16-toeflqa/</link>
-      <pubDate>Tue, 13 Dec 2016 00:00:00 +0800</pubDate>
+      <link>https://people.csail.mit.edu/weifang/publication/slt16-toeflqa/</link>
+      <pubDate>Tue, 13 Dec 2016 00:00:00 -0500</pubDate>
       
-      <guid>https://peskotiveswf.github.io/publication/slt16-toeflqa/</guid>
+      <guid>https://people.csail.mit.edu/weifang/publication/slt16-toeflqa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Question Answering for Listening Comprehension</title>
-      <link>https://peskotiveswf.github.io/project/spml16-toeflqa/</link>
-      <pubDate>Tue, 13 Dec 2016 00:00:00 +0800</pubDate>
+      <link>https://people.csail.mit.edu/weifang/project/spml16-toeflqa/</link>
+      <pubDate>Tue, 13 Dec 2016 00:00:00 -0500</pubDate>
       
-      <guid>https://peskotiveswf.github.io/project/spml16-toeflqa/</guid>
+      <guid>https://people.csail.mit.edu/weifang/project/spml16-toeflqa/</guid>
       <description>&lt;p&gt;Here is a &lt;a href=&#34;../../files/slides/speech-qa.pdf&#34; target=&#34;_blank&#34;&gt;short talk&lt;/a&gt; I gave on our group&amp;rsquo;s recent work on speech question
 answering.&lt;/p&gt;
 </description>
@@ -119,10 +119,10 @@ answering.&lt;/p&gt;
     
     <item>
       <title>MasterView (VR System)</title>
-      <link>https://peskotiveswf.github.io/project/hackntu16-masterview/</link>
-      <pubDate>Sun, 21 Aug 2016 00:00:00 +0800</pubDate>
+      <link>https://people.csail.mit.edu/weifang/project/hackntu16-masterview/</link>
+      <pubDate>Sun, 21 Aug 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://peskotiveswf.github.io/project/hackntu16-masterview/</guid>
+      <guid>https://people.csail.mit.edu/weifang/project/hackntu16-masterview/</guid>
       <description>&lt;p&gt;In the 2016 HackNTU Hackathon, our team developed MasterView, a virtual reality system that shows the expert&amp;rsquo;s moves in first-person perspective so the user can imitate and practice.&lt;/p&gt;
 
 &lt;p&gt;Here&amp;rsquo;s a &lt;a href=&#34;../../files/videos/masterview-demo.mp4&#34; target=&#34;_blank&#34;&gt;demo video&lt;/a&gt; of our system, and here&amp;rsquo;s
@@ -132,10 +132,10 @@ our &lt;a href=&#34;../../files/slides/masterview-slides.pdf&#34; target=&#34;_b
     
     <item>
       <title>Slither.AR (AR Game)</title>
-      <link>https://peskotiveswf.github.io/project/cg16-slither/</link>
-      <pubDate>Tue, 21 Jun 2016 00:00:00 +0800</pubDate>
+      <link>https://people.csail.mit.edu/weifang/project/cg16-slither/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://peskotiveswf.github.io/project/cg16-slither/</guid>
+      <guid>https://people.csail.mit.edu/weifang/project/cg16-slither/</guid>
       <description>&lt;p&gt;Using common and well-known development tools, we transform &lt;a href=&#34;http://slither.io&#34; target=&#34;_blank&#34;&gt;slither.io&lt;/a&gt;, a game
 based on &amp;ldquo;Snake&amp;rdquo;, into an interactive augmented-reality game.&lt;/p&gt;
 
@@ -145,10 +145,10 @@ based on &amp;ldquo;Snake&amp;rdquo;, into an interactive augmented-reality game
     
     <item>
       <title>Visual Question Answering</title>
-      <link>https://peskotiveswf.github.io/project/uia16-vqa/</link>
-      <pubDate>Tue, 10 May 2016 00:00:00 +0800</pubDate>
+      <link>https://people.csail.mit.edu/weifang/project/uia16-vqa/</link>
+      <pubDate>Tue, 10 May 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://peskotiveswf.github.io/project/uia16-vqa/</guid>
+      <guid>https://people.csail.mit.edu/weifang/project/uia16-vqa/</guid>
       <description>&lt;p&gt;Here is our &lt;a href=&#34;../../files/reports/vqa-report.pdf&#34; target=&#34;_blank&#34;&gt;report&lt;/a&gt;
 and here are our &lt;a href=&#34;../../files/slides/vqa-slides.pdf&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -156,10 +156,10 @@ and here are our &lt;a href=&#34;../../files/slides/vqa-slides.pdf&#34; target=&
     
     <item>
       <title>Aspect-Based Sentiment Analysis</title>
-      <link>https://peskotiveswf.github.io/project/spml15-absa/</link>
-      <pubDate>Fri, 29 Jan 2016 00:00:00 +0800</pubDate>
+      <link>https://people.csail.mit.edu/weifang/project/spml15-absa/</link>
+      <pubDate>Fri, 29 Jan 2016 00:00:00 -0500</pubDate>
       
-      <guid>https://peskotiveswf.github.io/project/spml15-absa/</guid>
+      <guid>https://people.csail.mit.edu/weifang/project/spml15-absa/</guid>
       <description>&lt;p&gt;Here is a &lt;a href=&#34;../../files/reports/semeval16-absa-report.pdf&#34; target=&#34;_blank&#34;&gt;report&lt;/a&gt;
 on our results for the &lt;a href=&#34;http://alt.qcri.org/semeval2016/task5/&#34; target=&#34;_blank&#34;&gt;aspect-based sentiment analysis task in SemEval
 2016&lt;/a&gt;.&lt;/p&gt;
@@ -168,10 +168,10 @@ on our results for the &lt;a href=&#34;http://alt.qcri.org/semeval2016/task5/&#3
     
     <item>
       <title>Large Scale Equivalence Checking and Functional Correction</title>
-      <link>https://peskotiveswf.github.io/project/cad15-eqcheck/</link>
-      <pubDate>Sat, 19 Sep 2015 00:00:00 +0800</pubDate>
+      <link>https://people.csail.mit.edu/weifang/project/cad15-eqcheck/</link>
+      <pubDate>Sat, 19 Sep 2015 00:00:00 -0400</pubDate>
       
-      <guid>https://peskotiveswf.github.io/project/cad15-eqcheck/</guid>
+      <guid>https://people.csail.mit.edu/weifang/project/cad15-eqcheck/</guid>
       <description>&lt;p&gt;We participated in the &lt;a href=&#34;http://cad-contest.el.cycu.edu.tw/CAD-contest-at-ICCAD2015/&#34; target=&#34;_blank&#34;&gt;2015 CAD
 Contest&lt;/a&gt; hosted by
 IEEE/ACM International Conference on Computer Aided Design (ICCAD 2015). In
@@ -183,10 +183,10 @@ nonequivalent circuits for design partitioning.&lt;/p&gt;
     
     <item>
       <title>uHu - a Resale Service</title>
-      <link>https://peskotiveswf.github.io/project/hackntu15-uhu/</link>
-      <pubDate>Fri, 21 Aug 2015 00:00:00 +0800</pubDate>
+      <link>https://people.csail.mit.edu/weifang/project/hackntu15-uhu/</link>
+      <pubDate>Fri, 21 Aug 2015 00:00:00 -0400</pubDate>
       
-      <guid>https://peskotiveswf.github.io/project/hackntu15-uhu/</guid>
+      <guid>https://people.csail.mit.edu/weifang/project/hackntu15-uhu/</guid>
       <description>&lt;p&gt;At the 2016 HackNTU Hackathon, our team built a second-hand trading platform,
 uhu, which provided services for booking, notifications, and filtering functions
 based on Facebook trading groups, in under 42 hours. Our presentation slides
