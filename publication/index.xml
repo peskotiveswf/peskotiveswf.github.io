@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Wei Fang</title>
-    <link>https://peskotiveswf.github.io/publication/</link>
+    <link>https://people.csail.mit.edu/weifang/publication/</link>
     <description>Recent content in Publications on Wei Fang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Wei Fang</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://peskotiveswf.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://people.csail.mit.edu/weifang/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Multi-Label Zero-Shot Learning with Structured Knowledge Graphs</title>
-      <link>https://peskotiveswf.github.io/publication/cvpr18-mlzsl/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0800</pubDate>
+      <link>https://people.csail.mit.edu/weifang/publication/cvpr18-mlzsl/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://peskotiveswf.github.io/publication/cvpr18-mlzsl/</guid>
+      <guid>https://people.csail.mit.edu/weifang/publication/cvpr18-mlzsl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hierarchical Attention Model for Improved Machine Comprehension of Spoken Content</title>
-      <link>https://peskotiveswf.github.io/publication/slt16-toeflqa/</link>
-      <pubDate>Tue, 13 Dec 2016 00:00:00 +0800</pubDate>
+      <link>https://people.csail.mit.edu/weifang/publication/slt16-toeflqa/</link>
+      <pubDate>Tue, 13 Dec 2016 00:00:00 -0500</pubDate>
       
-      <guid>https://peskotiveswf.github.io/publication/slt16-toeflqa/</guid>
+      <guid>https://people.csail.mit.edu/weifang/publication/slt16-toeflqa/</guid>
       <description></description>
     </item>
     
