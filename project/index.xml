@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Wei Fang</title>
+    <link>https://people.csail.mit.edu/weifang/project/</link>
+    <description>Recent content in Projects on Wei Fang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Wei Fang</copyright>
+    <lastBuildDate>Tue, 01 May 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://people.csail.mit.edu/weifang/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Multi-Label Zero-Shot Recognition with Knowledge Graphs</title>
+      <link>https://people.csail.mit.edu/weifang/project/vll18-mlzsl/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://people.csail.mit.edu/weifang/project/vll18-mlzsl/</guid>
+      <description>Inspired by the way humans utilize semantic knowledge between objects of interests, we propose a novel deep learning framework that incorporates knowledge graphs for describing the relationships between multiple labels to achieve multi-label zero-shot learning (ML-ZSL).</description>
+    </item>
+    
+    <item>
+      <title>Sketch-based Image Retrieval across Art Styles</title>
+      <link>https://people.csail.mit.edu/weifang/project/mmai17-retrieval/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://people.csail.mit.edu/weifang/project/mmai17-retrieval/</guid>
+      <description>In this project, we try to perform cross-domain image retrieval across different art styles using sketches as queries. Given a sketch image and a target art domain, we aim to retrieve images that are semantically similar in that particular art domain.
+We surveyed a few papers and a dataset by Adobe and Cornell Tech in the proceedings of this year’s ICCV conference (ICCV 2017). The Behance Artistic Media (BAM) dataset consists of images of 9 kinds of objects for 7 different art styles such as oil paint or vector art.</description>
+    </item>
+    
+    <item>
+      <title>Audio Word Embeddings</title>
+      <link>https://people.csail.mit.edu/weifang/project/spml17-audio2vec/</link>
+      <pubDate>Sat, 30 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://people.csail.mit.edu/weifang/project/spml17-audio2vec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modular Chatbot</title>
+      <link>https://people.csail.mit.edu/weifang/project/icb17-chatbot/</link>
+      <pubDate>Wed, 21 Jun 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://people.csail.mit.edu/weifang/project/icb17-chatbot/</guid>
+      <description>In this project, we built a modular dialogue system with deep learning techniques for the task of assisting people in department stores.
+Here is our poster.</description>
+    </item>
+    
+    <item>
+      <title>Question Answering for Listening Comprehension</title>
+      <link>https://people.csail.mit.edu/weifang/project/spml16-toeflqa/</link>
+      <pubDate>Tue, 13 Dec 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://people.csail.mit.edu/weifang/project/spml16-toeflqa/</guid>
+      <description>Here is a short talk I gave on our group&amp;rsquo;s recent work on speech question answering.</description>
+    </item>
+    
+    <item>
+      <title>MasterView (VR System)</title>
+      <link>https://people.csail.mit.edu/weifang/project/hackntu16-masterview/</link>
+      <pubDate>Sun, 21 Aug 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://people.csail.mit.edu/weifang/project/hackntu16-masterview/</guid>
+      <description>In the 2016 HackNTU Hackathon, our team developed MasterView, a virtual reality system that shows the expert&amp;rsquo;s moves in first-person perspective so the user can imitate and practice.
+Here&amp;rsquo;s a demo video of our system, and here&amp;rsquo;s our presentation slides in Mandarin Chinese.</description>
+    </item>
+    
+    <item>
+      <title>Slither.AR (AR Game)</title>
+      <link>https://people.csail.mit.edu/weifang/project/cg16-slither/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://people.csail.mit.edu/weifang/project/cg16-slither/</guid>
+      <description>Using common and well-known development tools, we transform slither.io, a game based on &amp;ldquo;Snake&amp;rdquo;, into an interactive augmented-reality game.
+The details about this project can be found in our project report.</description>
+    </item>
+    
+    <item>
+      <title>Visual Question Answering</title>
+      <link>https://people.csail.mit.edu/weifang/project/uia16-vqa/</link>
+      <pubDate>Tue, 10 May 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://people.csail.mit.edu/weifang/project/uia16-vqa/</guid>
+      <description>Here is our report and here are our slides.</description>
+    </item>
+    
+    <item>
+      <title>Aspect-Based Sentiment Analysis</title>
+      <link>https://people.csail.mit.edu/weifang/project/spml15-absa/</link>
+      <pubDate>Fri, 29 Jan 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://people.csail.mit.edu/weifang/project/spml15-absa/</guid>
+      <description>Here is a report on our results for the aspect-based sentiment analysis task in SemEval 2016.</description>
+    </item>
+    
+    <item>
+      <title>Large Scale Equivalence Checking and Functional Correction</title>
+      <link>https://people.csail.mit.edu/weifang/project/cad15-eqcheck/</link>
+      <pubDate>Sat, 19 Sep 2015 00:00:00 -0400</pubDate>
+      
+      <guid>https://people.csail.mit.edu/weifang/project/cad15-eqcheck/</guid>
+      <description>We participated in the 2015 CAD Contest hosted by IEEE/ACM International Conference on Computer Aided Design (ICCAD 2015). In Problem B, we developed a system to identify equivalent cuts in both equivalent and nonequivalent circuits for design partitioning.</description>
+    </item>
+    
+    <item>
+      <title>uHu - a Resale Service</title>
+      <link>https://people.csail.mit.edu/weifang/project/hackntu15-uhu/</link>
+      <pubDate>Fri, 21 Aug 2015 00:00:00 -0400</pubDate>
+      
+      <guid>https://people.csail.mit.edu/weifang/project/hackntu15-uhu/</guid>
+      <description>At the 2016 HackNTU Hackathon, our team built a second-hand trading platform, uhu, which provided services for booking, notifications, and filtering functions based on Facebook trading groups, in under 42 hours. Our presentation slides (in Mandarin Chinese) can be found here.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Wei Fang</title>
+    <link>https://people.csail.mit.edu/weifang/home/</link>
+    <description>Recent content in Homes on Wei Fang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Wei Fang</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://people.csail.mit.edu/weifang/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://people.csail.mit.edu/weifang/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.csail.mit.edu/weifang/home/about/</guid>
+      <description>Biography I&amp;rsquo;m an incoming Ph.D. student at MIT EECS, recently graduated from National Taiwan University (NTU) with a Bachelor&amp;rsquo;s degree in Electrical Engineering.
+During my undergrad studies, I researched on speech and language understanding under Prof. Hung-Yi Lee and Prof. Lin-Shan Lee at NTU. I also worked on machine learning problems for computer vision such as multi-label learning and transfer learning under Prof. Yu-Chiang Frank Wang at Academia Sinica/NTU.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://people.csail.mit.edu/weifang/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://people.csail.mit.edu/weifang/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://people.csail.mit.edu/weifang/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://people.csail.mit.edu/weifang/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Honors &amp; Awards</title>
+      <link>https://people.csail.mit.edu/weifang/home/honors/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.csail.mit.edu/weifang/home/honors/</guid>
+      <description>Dean&amp;rsquo;s List (3 times) National Taiwan University GPA in Top 5% in Department of Electrical Engineering.
+Conference Grant Foundation for the Advancement of Outstanding Scholarship For SLT 2016.
+Winner (Smart Life Track) 2016 HackNTU Hackathon Total of 160 teams.
+2nd Place 2016 Undergraduate Innovation Award, NTU Electrical Engineering Total of 15 research projects in competition.
+3rd Place (Problem B) Cad Contest 2015 at IEEE/ACM International Conference on Computer Aided Design (ICCAD) Total of 112 teams from 12 countries for the 3 problems.</description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://people.csail.mit.edu/weifang/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.csail.mit.edu/weifang/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://people.csail.mit.edu/weifang/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.csail.mit.edu/weifang/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://people.csail.mit.edu/weifang/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.csail.mit.edu/weifang/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://people.csail.mit.edu/weifang/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.csail.mit.edu/weifang/home/teaching/</guid>
+      <description>Teaching Assistant Machine Learning, Fall 2016/Spring 2017, NTU EE
+Teaching Assistant Special Topics in Data Analytics and Modeling, Fall 2016, NTU CSIE
+Teaching Assistant Signals and Systems, Spring 2016, NTU EE</description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://people.csail.mit.edu/weifang/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://people.csail.mit.edu/weifang/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Activities</title>
+      <link>https://people.csail.mit.edu/weifang/home/activities/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.csail.mit.edu/weifang/home/activities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://people.csail.mit.edu/weifang/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.csail.mit.edu/weifang/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
