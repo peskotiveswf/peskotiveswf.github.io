@@ -36,8 +36,7 @@
       <pubDate>Wed, 21 Jun 2017 00:00:00 -0400</pubDate>
       
       <guid>https://people.csail.mit.edu/weifang/project/icb17-chatbot/</guid>
-      <description>In this project, we built a modular dialogue system with deep learning techniques for the task of assisting people in department stores.
-Here is our poster.</description>
+      <description>We built a modular dialogue system with deep learning techniques for the task of assisting people in department stores.</description>
     </item>
     
     <item>
@@ -55,8 +54,7 @@ Here is our poster.</description>
       <pubDate>Sun, 21 Aug 2016 00:00:00 -0400</pubDate>
       
       <guid>https://people.csail.mit.edu/weifang/project/hackntu16-masterview/</guid>
-      <description>In the 2016 HackNTU Hackathon, our team developed MasterView, a virtual reality system that shows the expert&amp;rsquo;s moves in first-person perspective so the user can imitate and practice.
-Here&amp;rsquo;s a demo video of our system, and here&amp;rsquo;s our presentation slides in Mandarin Chinese.</description>
+      <description>At the 2016 HackNTU Hackathon, our team developed MasterView, a virtual reality system that shows the expert&amp;rsquo;s moves in first-person perspective so the user can imitate and practice.</description>
     </item>
     
     <item>
@@ -65,8 +63,7 @@ Here&amp;rsquo;s a demo video of our system, and here&amp;rsquo;s our presentati
       <pubDate>Tue, 21 Jun 2016 00:00:00 -0400</pubDate>
       
       <guid>https://people.csail.mit.edu/weifang/project/cg16-slither/</guid>
-      <description>Using common and well-known development tools, we transform slither.io, a game based on &amp;ldquo;Snake&amp;rdquo;, into an interactive augmented-reality game.
-The details about this project can be found in our project report.</description>
+      <description>Using common and well-known development tools, we transform slither.io, a game based on &amp;lsquo;Snake&amp;rsquo;, into an interactive augmented-reality game.</description>
     </item>
     
     <item>
@@ -75,7 +72,7 @@ The details about this project can be found in our project report.</description>
       <pubDate>Sat, 19 Sep 2015 00:00:00 -0400</pubDate>
       
       <guid>https://people.csail.mit.edu/weifang/project/cad15-eqcheck/</guid>
-      <description>We participated in the 2015 CAD Contest hosted by IEEE/ACM International Conference on Computer Aided Design (ICCAD 2015). In Problem B, we developed a system to identify equivalent cuts in both equivalent and nonequivalent circuits for design partitioning.</description>
+      <description>In the 2015 CAD Contest, we developed a system to identify equivalent cuts in both equivalent and nonequivalent circuits for design partitioning.</description>
     </item>
     
     <item>
@@ -84,7 +81,7 @@ The details about this project can be found in our project report.</description>
       <pubDate>Fri, 21 Aug 2015 00:00:00 -0400</pubDate>
       
       <guid>https://people.csail.mit.edu/weifang/project/hackntu15-uhu/</guid>
-      <description>At the 2016 HackNTU Hackathon, our team built a second-hand trading platform, uhu, which provided services for booking, notifications, and filtering functions based on Facebook trading groups, in under 42 hours. Our presentation slides (in Mandarin Chinese) can be found here.</description>
+      <description>At the 2015 HackNTU Hackathon, our team built a second-hand trading platform, uhu, which provided services for booking, notifications, and filtering functions based on Facebook trading groups, in under 42 hours.</description>
     </item>
     
   </channel>

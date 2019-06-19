@@ -1,5 +1,48 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    <url>
+    
+      <loc>https://people.csail.mit.edu/weifang/publication_types/1/</loc>
+      <lastmod>2019-06-17T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://people.csail.mit.edu/weifang/publication_types/</loc>
+      <lastmod>2019-06-17T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://people.csail.mit.edu/weifang/publication/arxiv19-berttaco/</loc>
+      <lastmod>2019-06-17T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://people.csail.mit.edu/weifang/</loc>
+      <lastmod>2019-06-17T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://people.csail.mit.edu/weifang/publication_types/2/</loc>
+      <lastmod>2019-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
     
     <url>
@@ -36,6 +79,42 @@
     
     <url>
     
+      <loc>https://people.csail.mit.edu/weifang/project/</loc>
+      <lastmod>2018-05-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://people.csail.mit.edu/weifang/tags/</loc>
+      <lastmod>2018-05-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://people.csail.mit.edu/weifang/tags/computer-vision/</loc>
+      <lastmod>2018-05-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://people.csail.mit.edu/weifang/tags/deep-learning/</loc>
+      <lastmod>2018-05-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://people.csail.mit.edu/weifang/activities/ntueesa/</loc>
       <lastmod>2017-12-06T16:01:07+08:00</lastmod>
     </url>
@@ -52,8 +131,26 @@
     
     <url>
     
+      <loc>https://people.csail.mit.edu/weifang/tags/speech-processing/</loc>
+      <lastmod>2017-09-30T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://people.csail.mit.edu/weifang/project/icb17-chatbot/</loc>
       <lastmod>2017-06-21T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://people.csail.mit.edu/weifang/tags/natural-language-processing/</loc>
+      <lastmod>2017-06-21T00:00:00-04:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -116,183 +213,8 @@
     
     <url>
     
-      <loc>https://people.csail.mit.edu/weifang/project/cg16-slither/</loc>
-      <lastmod>2016-06-21T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://people.csail.mit.edu/weifang/project/cad15-eqcheck/</loc>
-      <lastmod>2015-09-19T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://people.csail.mit.edu/weifang/project/hackntu15-uhu/</loc>
-      <lastmod>2015-08-21T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://people.csail.mit.edu/weifang/publication_types/1/</loc>
-      <lastmod>2019-04-01T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://people.csail.mit.edu/weifang/publication_types/2/</loc>
-      <lastmod>2019-04-27T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://people.csail.mit.edu/weifang/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://people.csail.mit.edu/weifang/project/</loc>
-      <lastmod>2018-05-01T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://people.csail.mit.edu/weifang/publication_types/</loc>
-      <lastmod>2019-04-01T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://people.csail.mit.edu/weifang/tags/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://people.csail.mit.edu/weifang/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://people.csail.mit.edu/weifang/tags/augmented-reality/</loc>
-      <lastmod>2016-06-21T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://people.csail.mit.edu/weifang/tags/computer-aided-design/</loc>
-      <lastmod>2015-09-19T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://people.csail.mit.edu/weifang/tags/computer-vision/</loc>
-      <lastmod>2018-05-01T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://people.csail.mit.edu/weifang/tags/contest/</loc>
-      <lastmod>2015-09-19T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://people.csail.mit.edu/weifang/tags/deep-learning/</loc>
-      <lastmod>2018-05-01T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://people.csail.mit.edu/weifang/tags/electronic-design-automation/</loc>
-      <lastmod>2015-09-19T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://people.csail.mit.edu/weifang/tags/game/</loc>
-      <lastmod>2016-06-21T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://people.csail.mit.edu/weifang/tags/hackathon/</loc>
       <lastmod>2016-08-21T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://people.csail.mit.edu/weifang/tags/natural-language-processing/</loc>
-      <lastmod>2017-06-21T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://people.csail.mit.edu/weifang/tags/speech-processing/</loc>
-      <lastmod>2017-09-30T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://people.csail.mit.edu/weifang/tags/unity-3d/</loc>
-      <lastmod>2016-06-21T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -309,8 +231,94 @@
     
     <url>
     
+      <loc>https://people.csail.mit.edu/weifang/project/cg16-slither/</loc>
+      <lastmod>2016-06-21T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://people.csail.mit.edu/weifang/tags/augmented-reality/</loc>
+      <lastmod>2016-06-21T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://people.csail.mit.edu/weifang/tags/game/</loc>
+      <lastmod>2016-06-21T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://people.csail.mit.edu/weifang/tags/unity-3d/</loc>
+      <lastmod>2016-06-21T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://people.csail.mit.edu/weifang/project/cad15-eqcheck/</loc>
+      <lastmod>2015-09-19T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://people.csail.mit.edu/weifang/tags/computer-aided-design/</loc>
+      <lastmod>2015-09-19T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://people.csail.mit.edu/weifang/tags/contest/</loc>
+      <lastmod>2015-09-19T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://people.csail.mit.edu/weifang/tags/electronic-design-automation/</loc>
+      <lastmod>2015-09-19T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://people.csail.mit.edu/weifang/project/hackntu15-uhu/</loc>
+      <lastmod>2015-08-21T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://people.csail.mit.edu/weifang/tags/web/</loc>
       <lastmod>2015-08-21T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://people.csail.mit.edu/weifang/categories/</loc>
       <priority>0</priority>
     </url>
     
