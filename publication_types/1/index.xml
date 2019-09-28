@@ -1,31 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 on Wei Fang</title>
+    <title>1 | Wei Fang</title>
     <link>https://people.csail.mit.edu/weifang/publication_types/1/</link>
-    <description>Recent content in 1 on Wei Fang</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018 Wei Fang</copyright>
-    <lastBuildDate>Mon, 17 Jun 2019 00:00:00 -0400</lastBuildDate>
-    
-	<atom:link href="https://people.csail.mit.edu/weifang/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Towards Transfer Learning for End-to-End Speech Synthesis from Deep Pre-Trained Language Models</title>
-      <link>https://people.csail.mit.edu/weifang/publication/arxiv19-berttaco/</link>
-      <pubDate>Mon, 17 Jun 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://people.csail.mit.edu/weifang/publication/arxiv19-berttaco/</guid>
-      <description></description>
-    </item>
+      <atom:link href="https://people.csail.mit.edu/weifang/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Wei Fang</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 -0400</lastBuildDate>
+    <image>
+      <url>https://people.csail.mit.edu/weifang/img/icon-192.png</url>
+      <title>1</title>
+      <link>https://people.csail.mit.edu/weifang/publication_types/1/</link>
+    </image>
     
     <item>
       <title>FAKTA: An Automatic End-to-End Fact Checking System</title>
       <link>https://people.csail.mit.edu/weifang/publication/naacl19-faktademo/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
-      
       <guid>https://people.csail.mit.edu/weifang/publication/naacl19-faktademo/</guid>
       <description></description>
     </item>
@@ -34,7 +24,6 @@
       <title>Multi-Label Zero-Shot Learning with Structured Knowledge Graphs</title>
       <link>https://people.csail.mit.edu/weifang/publication/cvpr18-mlzsl/</link>
       <pubDate>Mon, 18 Jun 2018 00:00:00 -0400</pubDate>
-      
       <guid>https://people.csail.mit.edu/weifang/publication/cvpr18-mlzsl/</guid>
       <description></description>
     </item>
@@ -43,7 +32,6 @@
       <title>Hierarchical Attention Model for Improved Machine Comprehension of Spoken Content</title>
       <link>https://people.csail.mit.edu/weifang/publication/slt16-toeflqa/</link>
       <pubDate>Tue, 13 Dec 2016 00:00:00 -0500</pubDate>
-      
       <guid>https://people.csail.mit.edu/weifang/publication/slt16-toeflqa/</guid>
       <description></description>
     </item>

@@ -1,163 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wei Fang on Wei Fang</title>
+    <title>Wei Fang</title>
     <link>https://people.csail.mit.edu/weifang/</link>
-    <description>Recent content in Wei Fang on Wei Fang</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018 Wei Fang</copyright>
-    <lastBuildDate>Mon, 17 Jun 2019 00:00:00 -0400</lastBuildDate>
-    <atom:link href="/weifang/" rel="self" type="application/rss+xml" />
+      <atom:link href="https://people.csail.mit.edu/weifang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wei Fang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Wei Fang</copyright><lastBuildDate>Sun, 03 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://people.csail.mit.edu/weifang/img/icon-192.png</url>
+      <title>Wei Fang</title>
+      <link>https://people.csail.mit.edu/weifang/</link>
+    </image>
     
     <item>
-      <title>Towards Transfer Learning for End-to-End Speech Synthesis from Deep Pre-Trained Language Models</title>
-      <link>https://people.csail.mit.edu/weifang/publication/arxiv19-berttaco/</link>
-      <pubDate>Mon, 17 Jun 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://people.csail.mit.edu/weifang/publication/arxiv19-berttaco/</guid>
+      <title>Publications</title>
+      <link>https://people.csail.mit.edu/weifang/publication/</link>
+      <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/weifang/publication/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Machine Comprehension of Spoken Content: TOEFL Listening Test and Spoken SQuAD</title>
-      <link>https://people.csail.mit.edu/weifang/publication/taslp19-qa/</link>
-      <pubDate>Sat, 27 Apr 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://people.csail.mit.edu/weifang/publication/taslp19-qa/</guid>
+      <title>Slides</title>
+      <link>https://people.csail.mit.edu/weifang/slides/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/weifang/slides/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>FAKTA: An Automatic End-to-End Fact Checking System</title>
-      <link>https://people.csail.mit.edu/weifang/publication/naacl19-faktademo/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://people.csail.mit.edu/weifang/publication/naacl19-faktademo/</guid>
+      <title>Projects</title>
+      <link>https://people.csail.mit.edu/weifang/project/</link>
+      <pubDate>Wed, 30 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/weifang/project/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Multi-Label Zero-Shot Learning with Structured Knowledge Graphs</title>
-      <link>https://people.csail.mit.edu/weifang/publication/cvpr18-mlzsl/</link>
-      <pubDate>Mon, 18 Jun 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://people.csail.mit.edu/weifang/publication/cvpr18-mlzsl/</guid>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
       <description></description>
     </item>
     
     <item>
-      <title>Multi-Label Zero-Shot Recognition with Knowledge Graphs</title>
-      <link>https://people.csail.mit.edu/weifang/project/vll18-mlzsl/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://people.csail.mit.edu/weifang/project/vll18-mlzsl/</guid>
-      <description>&lt;p&gt;Inspired by the way humans utilize semantic knowledge between objects of interests, we propose a novel deep learning framework that incorporates knowledge graphs for describing the relationships between multiple labels to achieve multi-label zero-shot learning (ML-ZSL).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>NTUEE Student Association</title>
-      <link>https://people.csail.mit.edu/weifang/activities/ntueesa/</link>
-      <pubDate>Wed, 06 Dec 2017 16:01:07 +0800</pubDate>
-      
-      <guid>https://people.csail.mit.edu/weifang/activities/ntueesa/</guid>
+      <title>Courses</title>
+      <link>https://people.csail.mit.edu/weifang/courses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/weifang/courses/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Audio Word Embeddings</title>
-      <link>https://people.csail.mit.edu/weifang/project/spml17-audio2vec/</link>
-      <pubDate>Sat, 30 Sep 2017 00:00:00 -0400</pubDate>
-      
-      <guid>https://people.csail.mit.edu/weifang/project/spml17-audio2vec/</guid>
+      <title>Posts</title>
+      <link>https://people.csail.mit.edu/weifang/post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/weifang/post/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Modular Chatbot</title>
-      <link>https://people.csail.mit.edu/weifang/project/icb17-chatbot/</link>
-      <pubDate>Wed, 21 Jun 2017 00:00:00 -0400</pubDate>
-      
-      <guid>https://people.csail.mit.edu/weifang/project/icb17-chatbot/</guid>
-      <description>&lt;p&gt;In this project, we built a modular dialogue system with deep learning techniques
-for the task of assisting people in department stores.&lt;/p&gt;
-
-&lt;p&gt;Here is our &lt;a href=&#34;../../files/posters/icb-poster.pdf&#34; target=&#34;_blank&#34;&gt;poster&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hierarchical Attention Model for Improved Machine Comprehension of Spoken Content</title>
-      <link>https://people.csail.mit.edu/weifang/publication/slt16-toeflqa/</link>
-      <pubDate>Tue, 13 Dec 2016 00:00:00 -0500</pubDate>
-      
-      <guid>https://people.csail.mit.edu/weifang/publication/slt16-toeflqa/</guid>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://people.csail.mit.edu/weifang/talk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/weifang/talk/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Question Answering for Listening Comprehension</title>
-      <link>https://people.csail.mit.edu/weifang/project/spml16-toeflqa/</link>
-      <pubDate>Tue, 13 Dec 2016 00:00:00 -0500</pubDate>
-      
-      <guid>https://people.csail.mit.edu/weifang/project/spml16-toeflqa/</guid>
-      <description>&lt;p&gt;Here is a &lt;a href=&#34;../../files/slides/speech-qa.pdf&#34; target=&#34;_blank&#34;&gt;short talk&lt;/a&gt; I gave on our group&amp;rsquo;s recent work on speech question
-answering.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MasterView (VR System)</title>
-      <link>https://people.csail.mit.edu/weifang/project/hackntu16-masterview/</link>
-      <pubDate>Sun, 21 Aug 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://people.csail.mit.edu/weifang/project/hackntu16-masterview/</guid>
-      <description>&lt;p&gt;In the 2016 HackNTU Hackathon, our team developed MasterView, a virtual reality system that shows the expert&amp;rsquo;s moves in first-person perspective so the user can imitate and practice.&lt;/p&gt;
-
-&lt;p&gt;Here&amp;rsquo;s a &lt;a href=&#34;../../files/videos/masterview-demo.mp4&#34; target=&#34;_blank&#34;&gt;demo video&lt;/a&gt; of our system, and here&amp;rsquo;s
-our &lt;a href=&#34;../../files/slides/masterview-slides.pdf&#34; target=&#34;_blank&#34;&gt;presentation slides&lt;/a&gt; in Mandarin Chinese.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Slither.AR (AR Game)</title>
-      <link>https://people.csail.mit.edu/weifang/project/cg16-slither/</link>
-      <pubDate>Tue, 21 Jun 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://people.csail.mit.edu/weifang/project/cg16-slither/</guid>
-      <description>&lt;p&gt;Using common and well-known development tools, we transform &lt;a href=&#34;http://slither.io&#34; target=&#34;_blank&#34;&gt;slither.io&lt;/a&gt;, a game
-based on &amp;ldquo;Snake&amp;rdquo;, into an interactive augmented-reality game.&lt;/p&gt;
-
-&lt;p&gt;The details about this project can be found in our &lt;a href=&#34;../../files/reports/icg-report.pdf&#34; target=&#34;_blank&#34;&gt;project report&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Large Scale Equivalence Checking and Functional Correction</title>
-      <link>https://people.csail.mit.edu/weifang/project/cad15-eqcheck/</link>
-      <pubDate>Sat, 19 Sep 2015 00:00:00 -0400</pubDate>
-      
-      <guid>https://people.csail.mit.edu/weifang/project/cad15-eqcheck/</guid>
-      <description>&lt;p&gt;We participated in the &lt;a href=&#34;http://cad-contest.el.cycu.edu.tw/CAD-contest-at-ICCAD2015/&#34; target=&#34;_blank&#34;&gt;2015 CAD
-Contest&lt;/a&gt; hosted by
-IEEE/ACM International Conference on Computer Aided Design (ICCAD 2015). In
-&lt;a href=&#34;http://cad-contest.el.cycu.edu.tw/problem_B/default.htm&#34; target=&#34;_blank&#34;&gt;Problem B&lt;/a&gt;, we
-developed a system to identify equivalent cuts in both equivalent and
-nonequivalent circuits for design partitioning.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>uHu - a Resale Service</title>
-      <link>https://people.csail.mit.edu/weifang/project/hackntu15-uhu/</link>
-      <pubDate>Fri, 21 Aug 2015 00:00:00 -0400</pubDate>
-      
-      <guid>https://people.csail.mit.edu/weifang/project/hackntu15-uhu/</guid>
-      <description>&lt;p&gt;At the 2016 HackNTU Hackathon, our team built a second-hand trading platform,
-uhu, which provided services for booking, notifications, and filtering functions
-based on Facebook trading groups, in under 42 hours. Our presentation slides
-(in Mandarin Chinese) can be found &lt;a href=&#34;https://www.slideshare.net/secret/LhLiZV72LMNy0G/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

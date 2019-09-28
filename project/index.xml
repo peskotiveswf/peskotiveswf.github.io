@@ -1,87 +1,92 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Wei Fang</title>
+    <title>Projects | Wei Fang</title>
     <link>https://people.csail.mit.edu/weifang/project/</link>
-    <description>Recent content in Projects on Wei Fang</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018 Wei Fang</copyright>
-    <lastBuildDate>Tue, 01 May 2018 00:00:00 -0400</lastBuildDate>
-    
-	<atom:link href="https://people.csail.mit.edu/weifang/project/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://people.csail.mit.edu/weifang/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Wei Fang</copyright><lastBuildDate>Wed, 30 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://people.csail.mit.edu/weifang/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>https://people.csail.mit.edu/weifang/project/</link>
+    </image>
     
     <item>
-      <title>Multi-Label Zero-Shot Recognition with Knowledge Graphs</title>
-      <link>https://people.csail.mit.edu/weifang/project/vll18-mlzsl/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://people.csail.mit.edu/weifang/project/vll18-mlzsl/</guid>
-      <description>Inspired by the way humans utilize semantic knowledge between objects of interests, we propose a novel deep learning framework that incorporates knowledge graphs for describing the relationships between multiple labels to achieve multi-label zero-shot learning (ML-ZSL).</description>
+      <title>Automatic Fact Checking</title>
+      <link>https://people.csail.mit.edu/weifang/project/sls19-factchecking/</link>
+      <pubDate>Wed, 30 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/weifang/project/sls19-factchecking/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Audio Word Embeddings</title>
-      <link>https://people.csail.mit.edu/weifang/project/spml17-audio2vec/</link>
-      <pubDate>Sat, 30 Sep 2017 00:00:00 -0400</pubDate>
-      
-      <guid>https://people.csail.mit.edu/weifang/project/spml17-audio2vec/</guid>
-      <description></description>
+      <title>Multi-Label ZSL with Knowledge Graphs</title>
+      <link>https://people.csail.mit.edu/weifang/project/vll18-mlzsl/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/weifang/project/vll18-mlzsl/</guid>
+      <description>&lt;p&gt;Inspired by the way humans utilize semantic knowledge between objects of interests, we propose a novel deep learning framework that incorporates knowledge graphs for describing the relationships between multiple labels to achieve multi-label zero-shot learning (ML-ZSL).&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Modular Chatbot</title>
       <link>https://people.csail.mit.edu/weifang/project/icb17-chatbot/</link>
-      <pubDate>Wed, 21 Jun 2017 00:00:00 -0400</pubDate>
-      
+      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
       <guid>https://people.csail.mit.edu/weifang/project/icb17-chatbot/</guid>
-      <description>We built a modular dialogue system with deep learning techniques for the task of assisting people in department stores.</description>
+      <description>&lt;p&gt;In this project, we built a modular dialogue system with deep learning techniques
+for the task of assisting people in department stores.&lt;/p&gt;
+
+&lt;p&gt;Here is our &lt;a href=&#34;https://people.csail.mit.edu/weifang/weifang/files/posters/icb-poster.pdf&#34; target=&#34;_blank&#34;&gt;poster&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Question Answering for Listening Comprehension</title>
+      <title>QA for TOEFL Listening Comprehension</title>
       <link>https://people.csail.mit.edu/weifang/project/spml16-toeflqa/</link>
       <pubDate>Tue, 13 Dec 2016 00:00:00 -0500</pubDate>
-      
       <guid>https://people.csail.mit.edu/weifang/project/spml16-toeflqa/</guid>
-      <description>Here is a short talk I gave on our group&amp;rsquo;s recent work on speech question answering.</description>
+      <description>&lt;p&gt;Here is a &lt;a href=&#34;https://people.csail.mit.edu/weifang/weifang/files/slides/speech-qa.pdf&#34; target=&#34;_blank&#34;&gt;short talk&lt;/a&gt; I gave on SPMLLab&amp;rsquo;s recent work on speech question
+answering in .&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>MasterView (VR System)</title>
       <link>https://people.csail.mit.edu/weifang/project/hackntu16-masterview/</link>
       <pubDate>Sun, 21 Aug 2016 00:00:00 -0400</pubDate>
-      
       <guid>https://people.csail.mit.edu/weifang/project/hackntu16-masterview/</guid>
-      <description>At the 2016 HackNTU Hackathon, our team developed MasterView, a virtual reality system that shows the expert&amp;rsquo;s moves in first-person perspective so the user can imitate and practice.</description>
+      <description>&lt;p&gt;In the 2016 HackNTU Hackathon, our team developed MasterView, a virtual reality system that shows the expert&amp;rsquo;s moves in first-person perspective so the user can imitate and practice.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s a &lt;a href=&#34;../../files/videos/masterview-demo.mp4&#34; target=&#34;_blank&#34;&gt;demo video&lt;/a&gt; of our system, and here&amp;rsquo;s
+our &lt;a href=&#34;../../files/slides/masterview-slides.pdf&#34; target=&#34;_blank&#34;&gt;presentation slides&lt;/a&gt; in Mandarin Chinese.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Slither.AR (AR Game)</title>
-      <link>https://people.csail.mit.edu/weifang/project/cg16-slither/</link>
+      <link>https://people.csail.mit.edu/weifang/project/cg16-slitherio/</link>
       <pubDate>Tue, 21 Jun 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://people.csail.mit.edu/weifang/project/cg16-slither/</guid>
-      <description>Using common and well-known development tools, we transform slither.io, a game based on &amp;lsquo;Snake&amp;rsquo;, into an interactive augmented-reality game.</description>
+      <guid>https://people.csail.mit.edu/weifang/project/cg16-slitherio/</guid>
+      <description>&lt;p&gt;Using common and well-known development tools, we transform &lt;a href=&#34;http://slither.io&#34; target=&#34;_blank&#34;&gt;slither.io&lt;/a&gt;, a game
+based on &amp;ldquo;Snake&amp;rdquo;, into an interactive augmented-reality game.&lt;/p&gt;
+
+&lt;p&gt;The details about this project can be found in our &lt;a href=&#34;../../files/reports/icg-report.pdf&#34; target=&#34;_blank&#34;&gt;project report&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Large Scale Equivalence Checking and Functional Correction</title>
       <link>https://people.csail.mit.edu/weifang/project/cad15-eqcheck/</link>
       <pubDate>Sat, 19 Sep 2015 00:00:00 -0400</pubDate>
-      
       <guid>https://people.csail.mit.edu/weifang/project/cad15-eqcheck/</guid>
-      <description>In the 2015 CAD Contest, we developed a system to identify equivalent cuts in both equivalent and nonequivalent circuits for design partitioning.</description>
-    </item>
-    
-    <item>
-      <title>uHu - a Resale Service</title>
-      <link>https://people.csail.mit.edu/weifang/project/hackntu15-uhu/</link>
-      <pubDate>Fri, 21 Aug 2015 00:00:00 -0400</pubDate>
-      
-      <guid>https://people.csail.mit.edu/weifang/project/hackntu15-uhu/</guid>
-      <description>At the 2015 HackNTU Hackathon, our team built a second-hand trading platform, uhu, which provided services for booking, notifications, and filtering functions based on Facebook trading groups, in under 42 hours.</description>
+      <description>&lt;p&gt;We participated in the &lt;a href=&#34;http://cad-contest.el.cycu.edu.tw/CAD-contest-at-ICCAD2015/&#34; target=&#34;_blank&#34;&gt;2015 CAD
+Contest&lt;/a&gt; hosted by
+IEEE/ACM International Conference on Computer Aided Design (ICCAD 2015). In
+&lt;a href=&#34;http://cad-contest.el.cycu.edu.tw/problem_B/default.htm&#34; target=&#34;_blank&#34;&gt;Problem B&lt;/a&gt;, we
+developed a system to identify equivalent cuts in both equivalent and
+nonequivalent circuits for design partitioning.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

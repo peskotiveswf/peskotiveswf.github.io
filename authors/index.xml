@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Wei Fang</title>
+    <link>https://people.csail.mit.edu/weifang/authors/</link>
+      <atom:link href="https://people.csail.mit.edu/weifang/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Wei Fang</copyright><lastBuildDate>Sun, 03 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://people.csail.mit.edu/weifang/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://people.csail.mit.edu/weifang/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://people.csail.mit.edu/weifang/authors/admin/</link>
+      <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/weifang/authors/admin/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a 2nd year PhD student in the Spoken Language Systems Group at MIT CSAIL, working with &lt;a href=&#34;http://people.csail.mit.edu/jrg/&#34; target=&#34;_blank&#34;&gt;Dr. James Glass&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I am currently working on various projects on language and speech, including automatic fact-checking
+and end-to-end speech synthesis. I am generally interested in learning and analyzing language representations,
+language understanding, and transfer learning for NLP.&lt;/p&gt;
+
+&lt;p&gt;During my undergrad studies at National Taiwan University (NTU), I researched on speech and language understanding under &lt;a href=&#34;http://speech.ee.ntu.edu.tw/~tlkagk/&#34; target=&#34;_blank&#34;&gt;Prof. Hung-Yi Lee&lt;/a&gt; and &lt;a href=&#34;http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm&#34; target=&#34;_blank&#34;&gt;Prof. Lin-Shan Lee&lt;/a&gt;, and worked on machine learning problems for computer vision under &lt;a href=&#34;http://vllab.ee.ntu.edu.tw/members.html&#34; target=&#34;_blank&#34;&gt;Prof. Yu-Chiang Frank Wang&lt;/a&gt; at Academia Sinica/NTU. I also interned twice with the NLP team at Apple in California.&lt;/p&gt;
+
+&lt;p&gt;Here is my &lt;a href=&#34;files/resume.pdf&#34; target=&#34;_blank&#34;&gt;Curriculum Vitae (updated Sep 2019)&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>James Glass</title>
+      <link>https://people.csail.mit.edu/weifang/authors/james-glass/</link>
+      <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/weifang/authors/james-glass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mitra Mohtarami</title>
+      <link>https://people.csail.mit.edu/weifang/authors/mitra-mohtarami/</link>
+      <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/weifang/authors/mitra-mohtarami/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moin Nadeem</title>
+      <link>https://people.csail.mit.edu/weifang/authors/moin-nadeem/</link>
+      <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/weifang/authors/moin-nadeem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yu-An Chung</title>
+      <link>https://people.csail.mit.edu/weifang/authors/yu-an-chung/</link>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 -0400</pubDate>
+      <guid>https://people.csail.mit.edu/weifang/authors/yu-an-chung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bo-Hsiang Tseng</title>
+      <link>https://people.csail.mit.edu/weifang/authors/bo-hsiang-tseng/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 -0400</pubDate>
+      <guid>https://people.csail.mit.edu/weifang/authors/bo-hsiang-tseng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chi-Liang Liu</title>
+      <link>https://people.csail.mit.edu/weifang/authors/chi-liang-liu/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 -0400</pubDate>
+      <guid>https://people.csail.mit.edu/weifang/authors/chi-liang-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chia-Hsuan Lee</title>
+      <link>https://people.csail.mit.edu/weifang/authors/chia-hsuan-lee/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 -0400</pubDate>
+      <guid>https://people.csail.mit.edu/weifang/authors/chia-hsuan-lee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hung-Yi Lee</title>
+      <link>https://people.csail.mit.edu/weifang/authors/hung-yi-lee/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 -0400</pubDate>
+      <guid>https://people.csail.mit.edu/weifang/authors/hung-yi-lee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jui-Yang Hsu</title>
+      <link>https://people.csail.mit.edu/weifang/authors/jui-yang-hsu/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 -0400</pubDate>
+      <guid>https://people.csail.mit.edu/weifang/authors/jui-yang-hsu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Szu-Lin Wu</title>
+      <link>https://people.csail.mit.edu/weifang/authors/szu-lin-wu/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 -0400</pubDate>
+      <guid>https://people.csail.mit.edu/weifang/authors/szu-lin-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brian Xu</title>
+      <link>https://people.csail.mit.edu/weifang/authors/brian-xu/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
+      <guid>https://people.csail.mit.edu/weifang/authors/brian-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chih-Kuan Yeh</title>
+      <link>https://people.csail.mit.edu/weifang/authors/chih-kuan-yeh/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 -0400</pubDate>
+      <guid>https://people.csail.mit.edu/weifang/authors/chih-kuan-yeh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chung-Wei Lee</title>
+      <link>https://people.csail.mit.edu/weifang/authors/chung-wei-lee/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 -0400</pubDate>
+      <guid>https://people.csail.mit.edu/weifang/authors/chung-wei-lee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yu-Chiang Frank Wang</title>
+      <link>https://people.csail.mit.edu/weifang/authors/yu-chiang-frank-wang/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 -0400</pubDate>
+      <guid>https://people.csail.mit.edu/weifang/authors/yu-chiang-frank-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lin-Shan Lee</title>
+      <link>https://people.csail.mit.edu/weifang/authors/lin-shan-lee/</link>
+      <pubDate>Tue, 13 Dec 2016 00:00:00 -0500</pubDate>
+      <guid>https://people.csail.mit.edu/weifang/authors/lin-shan-lee/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

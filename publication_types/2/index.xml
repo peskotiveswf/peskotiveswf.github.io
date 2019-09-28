@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 on Wei Fang</title>
+    <title>2 | Wei Fang</title>
     <link>https://people.csail.mit.edu/weifang/publication_types/2/</link>
-    <description>Recent content in 2 on Wei Fang</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018 Wei Fang</copyright>
-    <lastBuildDate>Sat, 27 Apr 2019 00:00:00 -0400</lastBuildDate>
-    
-	<atom:link href="https://people.csail.mit.edu/weifang/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://people.csail.mit.edu/weifang/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Wei Fang</copyright><lastBuildDate>Sat, 27 Apr 2019 00:00:00 -0400</lastBuildDate>
+    <image>
+      <url>https://people.csail.mit.edu/weifang/img/icon-192.png</url>
+      <title>2</title>
+      <link>https://people.csail.mit.edu/weifang/publication_types/2/</link>
+    </image>
     
     <item>
       <title>Machine Comprehension of Spoken Content: TOEFL Listening Test and Spoken SQuAD</title>
       <link>https://people.csail.mit.edu/weifang/publication/taslp19-qa/</link>
       <pubDate>Sat, 27 Apr 2019 00:00:00 -0400</pubDate>
-      
       <guid>https://people.csail.mit.edu/weifang/publication/taslp19-qa/</guid>
       <description></description>
     </item>
