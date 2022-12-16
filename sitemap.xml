@@ -1,301 +1,197 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://people.csail.mit.edu/weifang/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://people.csail.mit.edu/weifang/publication_types/4/</loc>
+    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://people.csail.mit.edu/weifang/authors/</loc>
+    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://people.csail.mit.edu/weifang/publication/preprint21-temprel/</loc>
+    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://people.csail.mit.edu/weifang/authors/james-glass/</loc>
+    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://people.csail.mit.edu/weifang/publication_types/</loc>
+    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://people.csail.mit.edu/weifang/publication/</loc>
+    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://people.csail.mit.edu/weifang/tags/source-themes/</loc>
+    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://people.csail.mit.edu/weifang/tags/</loc>
+    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://people.csail.mit.edu/weifang/authors/wei-fang/</loc>
+    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://people.csail.mit.edu/weifang/</loc>
+    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/authors/admin/</loc>
-    <lastmod>2019-11-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://people.csail.mit.edu/weifang/publication_types/7/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://people.csail.mit.edu/weifang/publication/sm-thesis/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/publication_types/9/</loc>
     <lastmod>2019-11-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://people.csail.mit.edu/weifang/authors/</loc>
-    <lastmod>2019-11-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://people.csail.mit.edu/weifang/authors/james-glass/</loc>
-    <lastmod>2019-11-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/authors/mitra-mohtarami/</loc>
     <lastmod>2019-11-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/authors/moin-nadeem/</loc>
     <lastmod>2019-11-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/publication/emnlp19w-stance/</loc>
     <lastmod>2019-11-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://people.csail.mit.edu/weifang/publication_types/</loc>
-    <lastmod>2019-11-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://people.csail.mit.edu/weifang/publication/</loc>
-    <lastmod>2019-11-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://people.csail.mit.edu/weifang/</loc>
-    <lastmod>2019-11-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://people.csail.mit.edu/weifang/publication_types/4/</loc>
-    <lastmod>2019-06-17T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/publication/arxiv19-berttaco/</loc>
-    <lastmod>2019-06-17T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2019-06-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/authors/yu-an-chung/</loc>
-    <lastmod>2019-06-17T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2019-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://people.csail.mit.edu/weifang/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/publication_types/2/</loc>
-    <lastmod>2019-04-27T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/authors/bo-hsiang-tseng/</loc>
-    <lastmod>2019-04-27T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/authors/chi-liang-liu/</loc>
-    <lastmod>2019-04-27T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/authors/chia-hsuan-lee/</loc>
-    <lastmod>2019-04-27T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/authors/hung-yi-lee/</loc>
-    <lastmod>2019-04-27T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/authors/jui-yang-hsu/</loc>
-    <lastmod>2019-04-27T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/publication/taslp19-qa/</loc>
-    <lastmod>2019-04-27T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/authors/szu-lin-wu/</loc>
-    <lastmod>2019-04-27T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/publication_types/1/</loc>
-    <lastmod>2019-04-01T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/authors/brian-xu/</loc>
-    <lastmod>2019-04-01T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/publication/naacl19-faktademo/</loc>
-    <lastmod>2019-04-01T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/project/sls19-factchecking/</loc>
     <lastmod>2019-01-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/tags/deep-learning/</loc>
     <lastmod>2019-01-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/tags/natural-language-processing/</loc>
     <lastmod>2019-01-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/project/</loc>
     <lastmod>2019-01-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://people.csail.mit.edu/weifang/tags/</loc>
-    <lastmod>2019-01-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/authors/chih-kuan-yeh/</loc>
-    <lastmod>2018-06-18T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2018-06-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/authors/chung-wei-lee/</loc>
-    <lastmod>2018-06-18T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2018-06-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/publication/cvpr18-mlzsl/</loc>
-    <lastmod>2018-06-18T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2018-06-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/authors/yu-chiang-frank-wang/</loc>
-    <lastmod>2018-06-18T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2018-06-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/tags/computer-vision/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/project/vll18-mlzsl/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/project/icb17-chatbot/</loc>
     <lastmod>2017-06-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/publication/slt16-toeflqa/</loc>
-    <lastmod>2016-12-13T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2016-12-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/authors/lin-shan-lee/</loc>
-    <lastmod>2016-12-13T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2016-12-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/project/spml16-toeflqa/</loc>
-    <lastmod>2016-12-13T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2016-12-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/tags/speech-processing/</loc>
-    <lastmod>2016-12-13T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2016-12-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/tags/hackathon/</loc>
-    <lastmod>2016-08-21T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2016-08-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/project/hackntu16-masterview/</loc>
-    <lastmod>2016-08-21T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2016-08-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/tags/virtual-reality/</loc>
-    <lastmod>2016-08-21T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2016-08-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/tags/augmented-reality/</loc>
-    <lastmod>2016-06-21T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2016-06-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/tags/game/</loc>
-    <lastmod>2016-06-21T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2016-06-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/project/cg16-slitherio/</loc>
-    <lastmod>2016-06-21T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2016-06-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/tags/unity-3d/</loc>
-    <lastmod>2016-06-21T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2016-06-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/tags/computer-aided-design/</loc>
-    <lastmod>2015-09-19T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2015-09-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/tags/contest/</loc>
-    <lastmod>2015-09-19T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2015-09-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/tags/electronic-design-automation/</loc>
-    <lastmod>2015-09-19T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2015-09-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/project/cad15-eqcheck/</loc>
-    <lastmod>2015-09-19T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2015-09-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://people.csail.mit.edu/weifang/courses/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/post/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://people.csail.mit.edu/weifang/talk/</loc>
   </url>
-  
 </urlset>

@@ -5,7 +5,7 @@
     <link>https://people.csail.mit.edu/weifang/authors/james-glass/</link>
       <atom:link href="https://people.csail.mit.edu/weifang/authors/james-glass/index.xml" rel="self" type="application/rss+xml" />
     <description>James Glass</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Wei Fang</copyright><lastBuildDate>Sun, 03 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Wei Fang</copyright><lastBuildDate>Tue, 16 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://people.csail.mit.edu/weifang/img/icon-192.png</url>
       <title>James Glass</title>
@@ -13,32 +13,27 @@
     </image>
     
     <item>
+      <title>Cross-Document Temporal Relation Extraction with Temporal Anchoring Events</title>
+      <link>https://people.csail.mit.edu/weifang/publication/preprint21-temprel/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/weifang/publication/preprint21-temprel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Neural Multi-Task Learning for Stance Prediction</title>
       <link>https://people.csail.mit.edu/weifang/publication/emnlp19w-stance/</link>
       <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://people.csail.mit.edu/weifang/publication/emnlp19w-stance/</guid>
-      <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).--&gt;
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     
     <item>
       <title>Towards Transfer Learning for End-to-End Speech Synthesis from Deep Pre-Trained Language Models</title>
       <link>https://people.csail.mit.edu/weifang/publication/arxiv19-berttaco/</link>
-      <pubDate>Mon, 17 Jun 2019 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://people.csail.mit.edu/weifang/publication/arxiv19-berttaco/</guid>
       <description></description>
     </item>
@@ -46,7 +41,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     <item>
       <title>FAKTA: An Automatic End-to-End Fact Checking System</title>
       <link>https://people.csail.mit.edu/weifang/publication/naacl19-faktademo/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://people.csail.mit.edu/weifang/publication/naacl19-faktademo/</guid>
       <description></description>
     </item>

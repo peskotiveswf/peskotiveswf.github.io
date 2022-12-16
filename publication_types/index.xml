@@ -5,12 +5,28 @@
     <link>https://people.csail.mit.edu/weifang/publication_types/</link>
       <atom:link href="https://people.csail.mit.edu/weifang/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Wei Fang</copyright><lastBuildDate>Sun, 03 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Wei Fang</copyright><lastBuildDate>Tue, 16 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://people.csail.mit.edu/weifang/img/icon-192.png</url>
       <title>Publication_types</title>
       <link>https://people.csail.mit.edu/weifang/publication_types/</link>
     </image>
+    
+    <item>
+      <title>4</title>
+      <link>https://people.csail.mit.edu/weifang/publication_types/4/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/weifang/publication_types/4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>7</title>
+      <link>https://people.csail.mit.edu/weifang/publication_types/7/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/weifang/publication_types/7/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>9</title>
@@ -21,17 +37,9 @@
     </item>
     
     <item>
-      <title>4</title>
-      <link>https://people.csail.mit.edu/weifang/publication_types/4/</link>
-      <pubDate>Mon, 17 Jun 2019 00:00:00 -0400</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/publication_types/4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>2</title>
       <link>https://people.csail.mit.edu/weifang/publication_types/2/</link>
-      <pubDate>Sat, 27 Apr 2019 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://people.csail.mit.edu/weifang/publication_types/2/</guid>
       <description></description>
     </item>
@@ -39,7 +47,7 @@
     <item>
       <title>1</title>
       <link>https://people.csail.mit.edu/weifang/publication_types/1/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://people.csail.mit.edu/weifang/publication_types/1/</guid>
       <description></description>
     </item>

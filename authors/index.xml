@@ -5,7 +5,7 @@
     <link>https://people.csail.mit.edu/weifang/authors/</link>
       <atom:link href="https://people.csail.mit.edu/weifang/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Wei Fang</copyright><lastBuildDate>Sun, 03 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Wei Fang</copyright><lastBuildDate>Tue, 16 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://people.csail.mit.edu/weifang/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,29 +13,38 @@
     </image>
     
     <item>
-      <title></title>
-      <link>https://people.csail.mit.edu/weifang/authors/admin/</link>
-      <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/authors/admin/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m a 2nd year PhD student in the Spoken Language Systems Group at MIT CSAIL, working with &lt;a href=&#34;http://people.csail.mit.edu/jrg/&#34; target=&#34;_blank&#34;&gt;Dr. James Glass&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I am currently working on various projects on language and speech, including automatic fact-checking
-and end-to-end speech synthesis. I am generally interested in machine learning algorithms for natural
-language and speech, including but not limited to learning and analyzing representations,
-language understanding, and transfer learning for NLP and speech.&lt;/p&gt;
-
-&lt;p&gt;During my undergrad studies at National Taiwan University (NTU), I researched on speech and language understanding under &lt;a href=&#34;http://speech.ee.ntu.edu.tw/~tlkagk/&#34; target=&#34;_blank&#34;&gt;Prof. Hung-Yi Lee&lt;/a&gt; and &lt;a href=&#34;http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm&#34; target=&#34;_blank&#34;&gt;Prof. Lin-Shan Lee&lt;/a&gt;, and worked on machine learning problems for computer vision under &lt;a href=&#34;http://vllab.ee.ntu.edu.tw/members.html&#34; target=&#34;_blank&#34;&gt;Prof. Yu-Chiang Frank Wang&lt;/a&gt; at Academia Sinica/NTU. I also interned twice with the NLP team at Apple in California.&lt;/p&gt;
-
-&lt;p&gt;Here is my &lt;a href=&#34;files/resume.pdf&#34; target=&#34;_blank&#34;&gt;Curriculum Vitae (updated Sep 2019)&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>James Glass</title>
+      <link>https://people.csail.mit.edu/weifang/authors/james-glass/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/weifang/authors/james-glass/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>James Glass</title>
-      <link>https://people.csail.mit.edu/weifang/authors/james-glass/</link>
-      <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/authors/james-glass/</guid>
+      <title>Wei Fang</title>
+      <link>https://people.csail.mit.edu/weifang/authors/wei-fang/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/weifang/authors/wei-fang/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://people.csail.mit.edu/weifang/authors/admin/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/weifang/authors/admin/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a 5th year PhD student in the Spoken Language Systems Group at MIT CSAIL, working with &lt;a href=&#34;http://people.csail.mit.edu/jrg/&#34;&gt;Dr. James Glass&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I am currently working on conversational AI, including but not limited to
+language understanding, question answering, information retrieval and extraction.
+I&amp;rsquo;m generally interested in machine learning for NLP and improving NLP agents&#39;
+reasoning and logical capabilities.
+Previously I have worked on various projects on language and speech,
+including temporal relation extraction, automatic fact-checking, and end-to-end speech synthesis.&lt;/p&gt;
+&lt;p&gt;During my undergrad studies at National Taiwan University (NTU), I researched on speech and language understanding under &lt;a href=&#34;http://speech.ee.ntu.edu.tw/~tlkagk/&#34;&gt;Prof. Hung-Yi Lee&lt;/a&gt; and &lt;a href=&#34;http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm&#34;&gt;Prof. Lin-Shan Lee&lt;/a&gt;, and worked on machine learning problems for computer vision under &lt;a href=&#34;http://vllab.ee.ntu.edu.tw/members.html&#34;&gt;Prof. Yu-Chiang Frank Wang&lt;/a&gt; at Academia Sinica/NTU. I also interned twice with the NLP team at Apple in California.&lt;/p&gt;
+&lt;p&gt;Here is my &lt;a href=&#34;files/resume.pdf&#34;&gt;Curriculum Vitae (updated Nov 2022)&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
     </item>
     
     <item>
@@ -57,7 +66,7 @@ language understanding, and transfer learning for NLP and speech.&lt;/p&gt;
     <item>
       <title>Yu-An Chung</title>
       <link>https://people.csail.mit.edu/weifang/authors/yu-an-chung/</link>
-      <pubDate>Mon, 17 Jun 2019 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://people.csail.mit.edu/weifang/authors/yu-an-chung/</guid>
       <description></description>
     </item>
@@ -65,7 +74,7 @@ language understanding, and transfer learning for NLP and speech.&lt;/p&gt;
     <item>
       <title>Bo-Hsiang Tseng</title>
       <link>https://people.csail.mit.edu/weifang/authors/bo-hsiang-tseng/</link>
-      <pubDate>Sat, 27 Apr 2019 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://people.csail.mit.edu/weifang/authors/bo-hsiang-tseng/</guid>
       <description></description>
     </item>
@@ -73,7 +82,7 @@ language understanding, and transfer learning for NLP and speech.&lt;/p&gt;
     <item>
       <title>Chi-Liang Liu</title>
       <link>https://people.csail.mit.edu/weifang/authors/chi-liang-liu/</link>
-      <pubDate>Sat, 27 Apr 2019 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://people.csail.mit.edu/weifang/authors/chi-liang-liu/</guid>
       <description></description>
     </item>
@@ -81,7 +90,7 @@ language understanding, and transfer learning for NLP and speech.&lt;/p&gt;
     <item>
       <title>Chia-Hsuan Lee</title>
       <link>https://people.csail.mit.edu/weifang/authors/chia-hsuan-lee/</link>
-      <pubDate>Sat, 27 Apr 2019 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://people.csail.mit.edu/weifang/authors/chia-hsuan-lee/</guid>
       <description></description>
     </item>
@@ -89,7 +98,7 @@ language understanding, and transfer learning for NLP and speech.&lt;/p&gt;
     <item>
       <title>Hung-Yi Lee</title>
       <link>https://people.csail.mit.edu/weifang/authors/hung-yi-lee/</link>
-      <pubDate>Sat, 27 Apr 2019 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://people.csail.mit.edu/weifang/authors/hung-yi-lee/</guid>
       <description></description>
     </item>
@@ -97,7 +106,7 @@ language understanding, and transfer learning for NLP and speech.&lt;/p&gt;
     <item>
       <title>Jui-Yang Hsu</title>
       <link>https://people.csail.mit.edu/weifang/authors/jui-yang-hsu/</link>
-      <pubDate>Sat, 27 Apr 2019 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://people.csail.mit.edu/weifang/authors/jui-yang-hsu/</guid>
       <description></description>
     </item>
@@ -105,7 +114,7 @@ language understanding, and transfer learning for NLP and speech.&lt;/p&gt;
     <item>
       <title>Szu-Lin Wu</title>
       <link>https://people.csail.mit.edu/weifang/authors/szu-lin-wu/</link>
-      <pubDate>Sat, 27 Apr 2019 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://people.csail.mit.edu/weifang/authors/szu-lin-wu/</guid>
       <description></description>
     </item>
@@ -113,7 +122,7 @@ language understanding, and transfer learning for NLP and speech.&lt;/p&gt;
     <item>
       <title>Brian Xu</title>
       <link>https://people.csail.mit.edu/weifang/authors/brian-xu/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://people.csail.mit.edu/weifang/authors/brian-xu/</guid>
       <description></description>
     </item>
@@ -121,7 +130,7 @@ language understanding, and transfer learning for NLP and speech.&lt;/p&gt;
     <item>
       <title>Chih-Kuan Yeh</title>
       <link>https://people.csail.mit.edu/weifang/authors/chih-kuan-yeh/</link>
-      <pubDate>Mon, 18 Jun 2018 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
       <guid>https://people.csail.mit.edu/weifang/authors/chih-kuan-yeh/</guid>
       <description></description>
     </item>
@@ -129,7 +138,7 @@ language understanding, and transfer learning for NLP and speech.&lt;/p&gt;
     <item>
       <title>Chung-Wei Lee</title>
       <link>https://people.csail.mit.edu/weifang/authors/chung-wei-lee/</link>
-      <pubDate>Mon, 18 Jun 2018 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
       <guid>https://people.csail.mit.edu/weifang/authors/chung-wei-lee/</guid>
       <description></description>
     </item>
@@ -137,7 +146,7 @@ language understanding, and transfer learning for NLP and speech.&lt;/p&gt;
     <item>
       <title>Yu-Chiang Frank Wang</title>
       <link>https://people.csail.mit.edu/weifang/authors/yu-chiang-frank-wang/</link>
-      <pubDate>Mon, 18 Jun 2018 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
       <guid>https://people.csail.mit.edu/weifang/authors/yu-chiang-frank-wang/</guid>
       <description></description>
     </item>
@@ -145,7 +154,7 @@ language understanding, and transfer learning for NLP and speech.&lt;/p&gt;
     <item>
       <title>Lin-Shan Lee</title>
       <link>https://people.csail.mit.edu/weifang/authors/lin-shan-lee/</link>
-      <pubDate>Tue, 13 Dec 2016 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
       <guid>https://people.csail.mit.edu/weifang/authors/lin-shan-lee/</guid>
       <description></description>
     </item>

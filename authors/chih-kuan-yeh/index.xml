@@ -5,7 +5,7 @@
     <link>https://people.csail.mit.edu/weifang/authors/chih-kuan-yeh/</link>
       <atom:link href="https://people.csail.mit.edu/weifang/authors/chih-kuan-yeh/index.xml" rel="self" type="application/rss+xml" />
     <description>Chih-Kuan Yeh</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Wei Fang</copyright><lastBuildDate>Mon, 18 Jun 2018 00:00:00 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Wei Fang</copyright><lastBuildDate>Mon, 18 Jun 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://people.csail.mit.edu/weifang/img/icon-192.png</url>
       <title>Chih-Kuan Yeh</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Multi-Label Zero-Shot Learning with Structured Knowledge Graphs</title>
       <link>https://people.csail.mit.edu/weifang/publication/cvpr18-mlzsl/</link>
-      <pubDate>Mon, 18 Jun 2018 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
       <guid>https://people.csail.mit.edu/weifang/publication/cvpr18-mlzsl/</guid>
       <description></description>
     </item>
