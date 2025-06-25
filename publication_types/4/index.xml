@@ -2,45 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>4 | Wei Fang</title>
-    <link>http://localhost:1313/weifang/publication_types/4/</link>
-      <atom:link href="http://localhost:1313/weifang/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://people.csail.mit.edu/weifang/publication_types/4/</link>
+      <atom:link href="https://people.csail.mit.edu/weifang/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
     <description>4</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 Wei Fang</copyright><lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 Wei Fang</copyright><lastBuildDate>Fri, 07 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/weifang/img/icon-192.png</url>
+      <url>https://people.csail.mit.edu/weifang/img/icon-192.png</url>
       <title>4</title>
-      <link>http://localhost:1313/weifang/publication_types/4/</link>
+      <link>https://people.csail.mit.edu/weifang/publication_types/4/</link>
     </image>
     
     <item>
-      <title>PLAY2PROMPT: Zero-shot Tool Instruction Optimization for LLM Agents via Tool Play</title>
-      <link>http://localhost:1313/weifang/publication/arxiv25-p2p/</link>
-      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/weifang/publication/arxiv25-p2p/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Interpretable Unified Language Checking</title>
-      <link>http://localhost:1313/weifang/publication/arxiv23-interpretable/</link>
+      <link>https://people.csail.mit.edu/weifang/publication/arxiv23-interpretable/</link>
       <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/weifang/publication/arxiv23-interpretable/</guid>
+      <guid>https://people.csail.mit.edu/weifang/publication/arxiv23-interpretable/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cross-Document Temporal Relation Extraction with Temporal Anchoring Events</title>
-      <link>http://localhost:1313/weifang/publication/preprint21-temprel/</link>
+      <link>https://people.csail.mit.edu/weifang/publication/preprint21-temprel/</link>
       <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/weifang/publication/preprint21-temprel/</guid>
+      <guid>https://people.csail.mit.edu/weifang/publication/preprint21-temprel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards Transfer Learning for End-to-End Speech Synthesis from Deep Pre-Trained Language Models</title>
-      <link>http://localhost:1313/weifang/publication/arxiv19-berttaco/</link>
+      <link>https://people.csail.mit.edu/weifang/publication/arxiv19-berttaco/</link>
       <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/weifang/publication/arxiv19-berttaco/</guid>
+      <guid>https://people.csail.mit.edu/weifang/publication/arxiv19-berttaco/</guid>
       <description></description>
     </item>
     
