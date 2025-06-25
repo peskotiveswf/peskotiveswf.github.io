@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yung-Sung Chuang | Wei Fang</title>
+    <link>http://localhost:1313/weifang/authors/yung-sung-chuang/</link>
+      <atom:link href="http://localhost:1313/weifang/authors/yung-sung-chuang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yung-Sung Chuang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 Wei Fang</copyright><lastBuildDate>Mon, 18 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/weifang/img/icon-192.png</url>
+      <title>Yung-Sung Chuang</title>
+      <link>http://localhost:1313/weifang/authors/yung-sung-chuang/</link>
+    </image>
+    
+    <item>
+      <title>Joint Inference of Retrieval and Generation for Passage Re-ranking</title>
+      <link>http://localhost:1313/weifang/publication/eacl24-jpr/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/weifang/publication/eacl24-jpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expand, Rerank, and Retrieve: Query Reranking for Open-Domain Question Answering</title>
+      <link>http://localhost:1313/weifang/publication/acl23-ear/</link>
+      <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/weifang/publication/acl23-ear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpretable Unified Language Checking</title>
+      <link>http://localhost:1313/weifang/publication/arxiv23-interpretable/</link>
+      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/weifang/publication/arxiv23-interpretable/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

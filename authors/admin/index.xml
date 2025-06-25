@@ -2,21 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wei Fang</title>
-    <link>https://people.csail.mit.edu/weifang/authors/admin/</link>
-      <atom:link href="https://people.csail.mit.edu/weifang/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/weifang/authors/admin/</link>
+      <atom:link href="http://localhost:1313/weifang/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Wei Fang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Wei Fang</copyright><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 Wei Fang</copyright><lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://people.csail.mit.edu/weifang/img/icon-192.png</url>
+      <url>http://localhost:1313/weifang/img/icon-192.png</url>
       <title>Wei Fang</title>
-      <link>https://people.csail.mit.edu/weifang/authors/admin/</link>
+      <link>http://localhost:1313/weifang/authors/admin/</link>
     </image>
     
     <item>
+      <title></title>
+      <link>http://localhost:1313/weifang/authors/admin/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/weifang/authors/admin/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a final year PhD candidate in the Spoken Language Systems Group at MIT CSAIL, working with &lt;a href=&#34;http://people.csail.mit.edu/jrg/&#34;&gt;Dr. James Glass&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I am currently working on large language models (LLM) and natural language processing
+(NLP), including but not limited to tool augmented generation, retrieval
+augmented generation, information retrieval, and question answering.
+I&amp;rsquo;m generally interested in machine learning for NLP and improving NLP agents&#39;
+reasoning and logical capabilities.
+Previously I have worked on various projects on language and speech.&lt;/p&gt;
+&lt;p&gt;During my undergrad studies at National Taiwan University (NTU), I researched on speech and language understanding under &lt;a href=&#34;http://speech.ee.ntu.edu.tw/~tlkagk/&#34;&gt;Prof. Hung-Yi Lee&lt;/a&gt; and &lt;a href=&#34;http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm&#34;&gt;Prof. Lin-Shan Lee&lt;/a&gt;, and worked on machine learning problems for computer vision under &lt;a href=&#34;http://vllab.ee.ntu.edu.tw/members.html&#34;&gt;Prof. Yu-Chiang Frank Wang&lt;/a&gt; at Academia Sinica/NTU. I also interned with MIT-IBM Watson AI Lab in Cambridge, MA, and twice with the NLP team at Apple in Cupertino, CA.&lt;/p&gt;
+&lt;p&gt;Here is my &lt;a href=&#34;files/resume.pdf&#34;&gt;CV (updated Mar 2025)&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PLAY2PROMPT: Zero-shot Tool Instruction Optimization for LLM Agents via Tool Play</title>
+      <link>http://localhost:1313/weifang/publication/arxiv25-p2p/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/weifang/publication/arxiv25-p2p/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Inference of Retrieval and Generation for Passage Re-ranking</title>
+      <link>http://localhost:1313/weifang/publication/eacl24-jpr/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/weifang/publication/eacl24-jpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expand, Rerank, and Retrieve: Query Reranking for Open-Domain Question Answering</title>
+      <link>http://localhost:1313/weifang/publication/acl23-ear/</link>
+      <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/weifang/publication/acl23-ear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpretable Unified Language Checking</title>
+      <link>http://localhost:1313/weifang/publication/arxiv23-interpretable/</link>
+      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/weifang/publication/arxiv23-interpretable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-Document Temporal Relation Extraction with Temporal Anchoring Events</title>
+      <link>http://localhost:1313/weifang/publication/preprint21-temprel/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/weifang/publication/preprint21-temprel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>On End-to-end Automatic Fact-checking Systems</title>
-      <link>https://people.csail.mit.edu/weifang/publication/sm-thesis/</link>
+      <link>http://localhost:1313/weifang/publication/sm-thesis/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/publication/sm-thesis/</guid>
+      <guid>http://localhost:1313/weifang/publication/sm-thesis/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
@@ -25,9 +84,9 @@
     
     <item>
       <title>Neural Multi-Task Learning for Stance Prediction</title>
-      <link>https://people.csail.mit.edu/weifang/publication/emnlp19w-stance/</link>
+      <link>http://localhost:1313/weifang/publication/emnlp19w-stance/</link>
       <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/publication/emnlp19w-stance/</guid>
+      <guid>http://localhost:1313/weifang/publication/emnlp19w-stance/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 </description>
@@ -35,41 +94,41 @@
     
     <item>
       <title>Towards Transfer Learning for End-to-End Speech Synthesis from Deep Pre-Trained Language Models</title>
-      <link>https://people.csail.mit.edu/weifang/publication/arxiv19-berttaco/</link>
+      <link>http://localhost:1313/weifang/publication/arxiv19-berttaco/</link>
       <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/publication/arxiv19-berttaco/</guid>
+      <guid>http://localhost:1313/weifang/publication/arxiv19-berttaco/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Comprehension of Spoken Content: TOEFL Listening Test and Spoken SQuAD</title>
-      <link>https://people.csail.mit.edu/weifang/publication/taslp19-qa/</link>
+      <link>http://localhost:1313/weifang/publication/taslp19-qa/</link>
       <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/publication/taslp19-qa/</guid>
+      <guid>http://localhost:1313/weifang/publication/taslp19-qa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FAKTA: An Automatic End-to-End Fact Checking System</title>
-      <link>https://people.csail.mit.edu/weifang/publication/naacl19-faktademo/</link>
+      <link>http://localhost:1313/weifang/publication/naacl19-faktademo/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/publication/naacl19-faktademo/</guid>
+      <guid>http://localhost:1313/weifang/publication/naacl19-faktademo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-Label Zero-Shot Learning with Structured Knowledge Graphs</title>
-      <link>https://people.csail.mit.edu/weifang/publication/cvpr18-mlzsl/</link>
+      <link>http://localhost:1313/weifang/publication/cvpr18-mlzsl/</link>
       <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/publication/cvpr18-mlzsl/</guid>
+      <guid>http://localhost:1313/weifang/publication/cvpr18-mlzsl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hierarchical Attention Model for Improved Machine Comprehension of Spoken Content</title>
-      <link>https://people.csail.mit.edu/weifang/publication/slt16-toeflqa/</link>
+      <link>http://localhost:1313/weifang/publication/slt16-toeflqa/</link>
       <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/publication/slt16-toeflqa/</guid>
+      <guid>http://localhost:1313/weifang/publication/slt16-toeflqa/</guid>
       <description></description>
     </item>
     
